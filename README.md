@@ -10,4 +10,4 @@
 - 💬 Ask me about ... 
 - ⚡ Fun fact: ![](https://mail.google.com/mail/e/1f44d)-->
 
-[![MINLAXZ](https://github-readme-stats.vercel.app/api?username=minlaxz&show_icons=true&theme=dark&title_color=FECB2E&bg_color=45,575648,4e4d40,454439,3b3a31,32312a,292822)](https://minlaxz.github.io)
+[![MINLAXZ](https://github-readme-stats.vercel.app/api?username=minlaxz&show_icons=true&theme=dark&title_color=FECB2E&bg_color=0D1117&border_color=0D1117)](https://minlaxz.github.io)
