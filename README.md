@@ -82,11 +82,25 @@
 ### Others
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-<div>
+<div align="center">
   <a href="https://github.com/minlaxz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minlaxz&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minlaxz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+    <br>
+  <br>
+
+  
+  <p align="center">
+
+<img width="500" src="https://metrics.lecoq.io/minlaxz" alt="Github Metrics">
+  
+  <br>
+  <br>
+
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=minlaxz" alt="Github Streak Stats">
+
+</p>
 
 <hr>
 
