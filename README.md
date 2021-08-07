@@ -6,21 +6,18 @@ ssh -l users github.com -p 0 cat $HOME/minlaxz/about.js
 ```javascript
 /**
  * Javascript 🐧
- * All of .me domain will be down on 18th of this month
- * including ${about.website} and &{ablout.cfPages}
- * but
- * ${about.ghPages} and ${about.currently}
- * should be avaible on minlaxz.github.io
- * 
+ * minlaxz.github.io is pointed to github.minlaxz.me
+ * but all .me domain will be down on 18th of this month
  * ${about.cfPages} should be on minlaxz.pages.dev
-*/
+ * @param {object} about About of minlaxz
+*/ 
 
-export const aboutMinlaxz = {
+export const about = {
     name: "Min Min Latt - minlaxz 🤖",
-    age: "24",
+    age: 100 - 86,
     pronunce: "he | him | his",
-    website: "https://minlaxz.me", // todo: .dev
-    ghPages: "https://github.minlaxz.me", // todo: .dev
+    website: "https://minlaxz.me",
+    ghPages: "https://minlaxz.github.io",
     cfPages: "https://minlaxz.pages.dev",
     about: "Creating or recreating things.",
     confuse: "If we don't reinvent the wheel, what about wrapping up on the top of it. 🤪",
@@ -57,7 +54,7 @@ export const aboutMinlaxz = {
         { note : "I love all linux distro expect RedHat Enterprise. 😣" }
     ],
     myNote: "🖤 open source.",
-    currently: "Check @ https://github.minlaxz.me/currently", // todo: .dev
-    
+    currentlyWorking: "Check @ https://minlaxz.github.io/#/currently", // todo: .dev
+    nonJavascriptNorProgrammer : "Check @ https://minlaxz.github.io/#/forhuman"
 };
 ```
