@@ -7,7 +7,7 @@ ssh -l users github.com -p 0 cat $HOME/minlaxz/about.js
 /**
  * Javascript 🐧
  * minlaxz.github.io is pointed to github.minlaxz.me
- * but all .me domain will be down on 18th of this month
+ * but all .me domain will be down on 18th of this month // Aug
  * ${about.cfPages} should be on minlaxz.pages.dev
  * @param {object} about About of minlaxz
 */ 
@@ -30,7 +30,7 @@ export const about = {
     CICD : ["Github actions"
         { Learning: "Travis CI" }
     ],
-    Tests : "I don't know how much important tests yet."
+    Tests : "I don't know how much important tests yet.",
     others: [ "Git",
         "Django..", "Express", "SocketIO",
         "React", "Bootstrap", "Tailwind", "Materialize",
