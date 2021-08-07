@@ -16,7 +16,7 @@ export const about = {
     name: "Min Min Latt - minlaxz 🤖",
     age: 100 - 86,
     pronunce: "he | him | his",
-    email: [ "minminlaxz@gmail.com", "minminlatt@ttu.edu.mm", "mgmglatt@live.com" ]
+    email: [ "minminlaxz@gmail.com", "minminlatt@ttu.edu.mm", "mgmglatt@live.com" ],
     website: "https://minlaxz.me",
     ghPages: "https://minlaxz.github.io",
     cfPages: "https://minlaxz.pages.dev",
