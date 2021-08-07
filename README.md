@@ -4,24 +4,33 @@ ssh -l users github.com -p 0 cat $HOME/minlaxz/about.js
 ```
 
 ```javascript
-// Javascript 🐧
+/**
+ * Javascript 🐧
+ * All of .me domain will be down on 18th of this month
+ * including ${about.website} and &{ablout.cfPages}
+ * but
+ * ${about.ghPages} and ${about.currently}
+ * should be avaible on minlaxz.github.io
+ * 
+ * ${about.cfPages} should be on minlaxz.pages.dev
+*/
+
 export const aboutMinlaxz = {
     name: "Min Min Latt - minlaxz 🤖",
     age: "24",
     pronunce: "he | him | his",
-    website: "https://minlaxz.me" // todo: .dev
+    website: "https://minlaxz.me", // todo: .dev
     ghPages: "https://github.minlaxz.me", // todo: .dev
     cfPages: "https://minlaxz.pages.dev",
     about: "Creating or recreating things.",
-    confuse:
-      "If we don't reinvent the wheel, what about wrapping up on the top of it. 🤪",
+    confuse: "If we don't reinvent the wheel, what about wrapping up on the top of it. 🤪",
     location: "Yangon, Myanmar",
     hobbies: [ "🖥 Coding", "📰 Tech Document", "👂🏼 Music", "👀 MV" ],
     coding: [ "Python", "JavaScript", "Shell",
         { Learning: "TypeScript", },
     ],
     CICD : ["Github actions"
-        {Learning: "Travis CI"}
+        { Learning: "Travis CI" }
     ],
     Tests : "I don't know how much important tests yet."
     others: [ "Git",
@@ -30,7 +39,7 @@ export const aboutMinlaxz = {
         "webpack", "babel", "... so many tech 😆",
         { Learning : false } // this is internal error 🥶
     ],
-    deployment: ["heroku", "divio", "firebase", "cf-pages", "cf-workers", "gh-pages", "or what?"],
+    deployment: [ "heroku", "divio", "firebase", "cf-pages", "cf-workers", "gh-pages", "or what?" ],
     devops: [ "Docker", "Podman",
         { Learning: "Kubernetes", }
     ],
@@ -41,14 +50,14 @@ export const aboutMinlaxz = {
         { arduino: "interrupts, clock" },
         { nodeMCU: "loosely C, micro python, pyserial, esptool ..?" },
         { NvidiaNano : "@dusty-nv/jetson-inference" },
-        ["thingsboard", "openstreetmap", "blynk", "MQTT", "ArcGIS","can't remember"] // nested array
+        [ "thingsboard", "openstreetmap", "blynk", "MQTT", "ArcGIS","can't remember" ] // nested array
     ],
     os: [ "GNU/Linux",
-        { daemon: ["SysVInit", "Systemd"] },
-        { note : "I love all linux distro expect RedHat Enterprise. 😣"}
+        { daemon: [ "SysVInit", "Systemd" ] },
+        { note : "I love all linux distro expect RedHat Enterprise. 😣" }
     ],
     myNote: "🖤 open source.",
-    currentlyWorkingOn: "Check @ https://github.minlaxz.me", // todo: .dev
-
+    currently: "Check @ https://github.minlaxz.me/currently", // todo: .dev
+    
 };
 ```
