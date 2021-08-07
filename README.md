@@ -14,7 +14,7 @@ ssh -l users github.com -p 0 cat $HOME/minlaxz/about.js
 
 export const about = {
     name: "Min Min Latt - minlaxz 🤖",
-    age: 100 - 86,
+    age: 100 - 86, // 😆 it is 76
     pronunce: "he | him | his",
     email: [ "minminlaxz@gmail.com", "minminlatt@ttu.edu.mm", "mgmglatt@live.com" ],
     website: "https://minlaxz.me",
