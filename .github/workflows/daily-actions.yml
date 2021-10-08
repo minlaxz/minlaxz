@@ -22,11 +22,9 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.14
+      - uses: lowlighter/metrics@latest
         with:
-          # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ github.token }}
           committer_branch: github-metrics
           committer_message: "build: update `${filename}`"
@@ -34,18 +32,32 @@ jobs:
           # Options
           user: minlaxz
           template: classic
-          base: header, activity, community
-          config_timezone: Europe/Oslo
-
-          # Language plugin
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Rangoon
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
-
-          # Achievement plugin
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-
-          # Notable contributions
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_lines: yes
           plugin_notable: yes
-          plugin_notable_filter: stars:>150
           plugin_notable_repositories: yes
+          plugin_stars: yes
+          plugin_stars_limit: 4
