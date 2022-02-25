@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="33055" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2383" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:15px;letter-spacing:-2px}.contribution .gauge{margin:0 4px;color:inherit}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.post{align-items:flex-start}.post .infos{display:flex;margin-bottom:4px}.post .infos .description,.post .infos .title{font-size:14px;white-space:normal;overflow:hidden;text-overflow:ellipsis;max-height:38px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.post .infos .description{margin-top:3px;font-size:12px;max-height:48px;color:#666;-webkit-line-clamp:3}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.stackoverflow{margin-left:38px}.stackoverflow .title{color:#58a6ff;white-space:normal;align-items:flex-start}.stackoverflow .infos{color:#666;font-size:13px;margin-left:32px;display:flex;align-items:center}.stackoverflow .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.stackoverflow .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0;flex-shrink:0}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.tag{color:#48428a}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:15px;letter-spacing:-2px}.contribution .gauge{margin:0 4px;color:inherit}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -32,17 +32,17 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 706 repositories
+                            Starred 713 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,13 +171,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    731 MB used
+                                    732 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    546k added, 184k removed
+                                    551k added, 185k removed
                                 </div>
                             </section>
                             <section>
@@ -370,12 +370,6 @@
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
-                            </svg>
-                            Current streak 2 days
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 5 days
@@ -396,7 +390,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.95
+                            Average per day at ~0.93
                         </div>
                     </section>
                 </div>
@@ -422,47 +416,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 5.857142857142857)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.142857142857142 0,3.142857142857143 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.142857142857143 1.7,4.142857142857142 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 8.571428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 10.142857142857142)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 11.571428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(1.7, 1)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
                             <g transform="translate(-1.7, 6.571428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -470,9 +427,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.142857142857142)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -480,9 +437,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.142857142857142)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -490,11 +447,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(3.4, 2)">
+                        <g transform="translate(1.7, 1)">
                             <g transform="translate(0, 4.714285714285714)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -507,9 +464,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.571428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -527,11 +484,11 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,7 1.7,8 z"/>
                             </g>
                         </g>
-                        <g transform="translate(5.1, 3)">
+                        <g transform="translate(3.4, 2)">
                             <g transform="translate(0, 5.571428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -539,9 +496,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.571428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -564,7 +521,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(6.8, 4)">
+                        <g transform="translate(5.1, 3)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -591,9 +548,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.571428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -601,7 +558,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(8.5, 5)">
+                        <g transform="translate(6.8, 4)">
                             <g transform="translate(0, 5.571428571428571)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
@@ -638,7 +595,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(10.2, 6)">
+                        <g transform="translate(8.5, 5)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -673,6 +630,43 @@
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(10.2, 6)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
                         <g transform="translate(11.9, 7)">
@@ -713,43 +707,6 @@
                             </g>
                         </g>
                         <g transform="translate(13.6, 8)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(15.299999999999999, 9)">
                             <g transform="translate(0, 5.571428571428571)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
@@ -786,7 +743,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(17, 10)">
+                        <g transform="translate(15.299999999999999, 9)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -823,7 +780,7 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                         </g>
-                        <g transform="translate(18.7, 11)">
+                        <g transform="translate(17, 10)">
                             <g transform="translate(0, 4.714285714285714)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
@@ -860,7 +817,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(20.4, 12)">
+                        <g transform="translate(18.7, 11)">
                             <g transform="translate(0, 5.571428571428571)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
@@ -897,7 +854,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(22.099999999999998, 13)">
+                        <g transform="translate(20.4, 12)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -924,9 +881,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-8.5, 9.285714285714285)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -934,7 +891,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(23.8, 14)">
+                        <g transform="translate(22.099999999999998, 13)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -946,9 +903,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-3.4, 6.714285714285714)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -971,7 +928,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(25.5, 15)">
+                        <g transform="translate(23.8, 14)">
                             <g transform="translate(0, 5.571428571428571)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
@@ -1008,11 +965,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(27.2, 16)">
+                        <g transform="translate(25.5, 15)">
                             <g transform="translate(0, 4.285714285714286)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1025,9 +982,46 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 7.714285714285714)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(27.2, 16)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1061,15 +1055,15 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-5.1, 8.571428571428571)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-6.8, 9.571428571428571)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1083,47 +1077,10 @@
                             </g>
                         </g>
                         <g transform="translate(30.599999999999998, 18)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 8.571428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 9.571428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(32.3, 19)">
                             <g transform="translate(0, 4.714285714285714)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
                             </g>
                             <g transform="translate(-1.7, 2.2857142857142856)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1156,7 +1113,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(34, 20)">
+                        <g transform="translate(32.3, 19)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1193,7 +1150,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(35.699999999999996, 21)">
+                        <g transform="translate(34, 20)">
                             <g transform="translate(0, 2.1428571428571423)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.857142857142858 0,4.857142857142858 z"/>
@@ -1230,7 +1187,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(37.4, 22)">
+                        <g transform="translate(35.699999999999996, 21)">
                             <g transform="translate(0, 4.714285714285714)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
@@ -1267,7 +1224,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(39.1, 23)">
+                        <g transform="translate(37.4, 22)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1304,7 +1261,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(40.8, 24)">
+                        <g transform="translate(39.1, 23)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1341,7 +1298,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(42.5, 25)">
+                        <g transform="translate(40.8, 24)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1378,7 +1335,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(44.199999999999996, 26)">
+                        <g transform="translate(42.5, 25)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1398,6 +1355,11 @@
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
                     </g>
@@ -1419,123 +1381,17 @@
                                         <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                                     </svg>
                                     <div class="name">
-                                        <span>cirosantilli/china-dictatorship</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>microsoft/vscode</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Anti Chinese government information. 反中共消息库。住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police might pay you a visit.  Home to the mega-FAQ, news compilation, restaurant and music recommendations.Heil Xi 卐. 大陆修宪香港恶法台湾武统朝鲜毁约美中冷战等都是王沪宁愚弄习思想极左命运共同体的大策划中共窃国这半个多世纪所犯下的滔天罪恶，前期是毛泽东策划的，中期6.4前后是邓小平策划的，黄牛数据分析后期是毛的极左追随者三朝罪恶元凶王沪宁策划的。王沪宁高小肆业因文革政治和情报需要保送“学院外语班“红色仕途翻身，所以王的本质是极左的。他是在上海底层弄堂长大的，因其本性也促成其瘪三下三滥个性，所以也都说他有易主“变色龙”哈巴狗“的天性。大陆像王沪宁这样学马列政治所谓"法学"专业的人，在除朝鲜古巴所有国家特别是在文明发达国家是无法找到专业对口工作必定失业，唯独在大陆却是重用的紧缺“人才”，6.4后中共信仰大危机更是最重用的救党“人才”。这也就是像王沪宁此类工农兵假“大学生”平步青云的原因，他们最熟悉毛泽东历次运动的宫庭内斗经验手段和残酷的阶级斗争等暴力恐怖的“政治学”。王沪宁能平步青云靠他这马毛伪“政治学”资本和头衔，不是什么真才实学，能干实事有点真才实学的或许在他手下的谋士及秘书班子中可以找到。王沪宁的“真才实学”只不过是一个只读四年小学的人，大半辈子在社会上磨炼特别是在中共官场滚打炼出的的手段和经验而已，他和习近平等保送的工农兵假“大学生”都一样，无法从事原“专业”都凭红资本而从政。六四学运期间各界一边倒支持学生，王沪宁一度去法国躲避和筹谋，他还加入了反学运签名，成为极少有的反学运者仕途突显，在六四和苏联垮台后中共意识形态危机，江泽民上台看上唯一能应急的王沪宁聚谋士泡制的"稳定统一领导"和之后的"新权威"谬论。左转被邓小平南巡阻止后，王策划顺邓经济改革却将政治改革逐步全面终止和倒退，泡制“三个代表”为极左转建立庞大牢固的红色既得利益集团。因此六四后各重大决策和危机难题都摆在中共中央政策研究室王沪宁桌面上，使王沪宁成了此后中共三朝都无法摆脱的幕后最有决策性实权的人，中共中央政策研究室是王为其野心巨资经营几十年，聚众谋士的间谍情报汇总研究的特务机关和策划制定决策重要机构与基地，王沪宁本人和决定其仕途关键的首任岳父及家属就有情报工作背景。中央政研室重要到王沪宁入常后为了死抓这中共情报与决策大权，宁可放弃国家副主席和中央党校校长。后再加个除习外唯他担任的中共几核心领导小组之一的“不忘初心牢记使命”主题教育工作小组组长。此后他把持的舆论必将以宣传“不忘初心牢记使命”为主，打造众所周知的所谓“习思想”其实是”王思想“。王自从主导中央政研室开始决策后，策划中止邓小平的与美妥协路线回归毛极左的反美路线。帮助前南斯拉夫提供情报打落美机放中使馆引发炸使馆事件，以此掀起六四后唯一的全国大规模游行并借此反美而起家。后又帮江泽民提供法轮功会是超过中共组织的情报，策划决策镇压迫害开始并没有把矛头指向江的法轮功群体，策划决定阻止党内外近三十年来平反六四的呼声。致远黑皮书马拉松程序员易支付英语台词文字匹配美团点评各业务线提供知识库团队共享阿里云高精Excel识别德讯 ·吉特胡布薄熙来黑科技习近平讲话模拟器习近平音源黑马程序员MySQL数据库玉米杂草数据集销售系统开发疫情期间网民情绪识别比赛996icu996 icu学习强国预测结果导出赖伟林刺杀小说家购物商场英语词汇量小程序联级选择器Bitcoin区块链 技术面试必备基础知识 Leetcode 计算机操作系统 计算机网络 系统设计 Java学习 面试指南 一份涵盖大部分 Java 程序员所需要掌握的核心知识 准备 Java 面试 首选 JavaGuide Python 1 天从新手到大师刷算法全靠套路 认准 labuladong 就够了 免费的计算机编程类中文书籍 欢迎投稿用动画的形式呈现解LeetCode题目的思路 互联网 Java 工程师进阶知识完全扫盲 涵盖高并发 分布式 高可用 微服务 海量数据处理等领域知识后端架构师技术图谱mall项目是一套电商系统 包括前台商城系统及后台管理系统 基于SpringBoot MyBatis实现 采用Docker容器化部署 前台商城系统包含首页门户 商品推荐 商品搜索 商品展示 购物车 订单流程 会员中心 客户服务 帮助中心等模块 后台管理系统包含商品管理 订单管理 会员管理 促销管理 运营管理 内容管理 统计报表 财务管理 权限管理 设置等模块 微信小程序开发资源汇总 最全中华古诗词数据库 唐宋两朝近一万四千古诗人 接近5 5万首唐诗加26万宋诗 两宋时期1564位词人 21 5 首词 uni app 是使用 Vue 语法开发小程序 H5 App的统一框架2 21年最新总结 阿里 腾讯 百度 美团 头条等技术面试题目 以及答案 专家出题人分析汇总 科学上网 自由上网 翻墙 软件 方法 一键翻墙浏览器 免费账号 节点分享 vps一键搭建脚本 教程AiLearning 机器学习 MachineLearning ML 深度学习 DeepLearning DL 自然语言处理 NLP123 6智能刷票 订票开放式跨端跨框架解决方案 支持使用 React Vue Nerv 等框架来开发微信 京东 百度 支付宝 字节跳动 QQ 小程序 H5 React Native 等应用 taro zone 掘金翻译计划 可能是世界最大最好的英译中技术社区 最懂读者和译者的翻译平台  no evil 程序员找工作黑名单 换工作和当技术合伙人需谨慎啊 更新有赞 算法面试 算法知识 针对小白的算法训练 还包括 1 阿里 字节 滴滴 百篇大厂面经汇总 2 千本开源电子书 3 百张思维导图 右侧来个 star 吧 English version supported 955 不加班的公司名单 工作 955 work–life balance 工作与生活的平衡 诊断利器Arthas The Way to Go 中文译本 中文正式名 Go 入门指南  Java面试 Java学习指南 一份涵盖大部分Java程序员所需要掌握的核心知识 教程 技术栈示例代码 快速简单上手教程 2 17年买房经历总结出来的买房购房知识分享给大家 希望对大家有所帮助 买房不易 且买且珍惜http下载工具 基于http代理 支持多连接分块下载 动手学深度学习 面向中文读者 能运行 可讨论 中英文版被全球175所大学采用教学 阿里云计算平台团队出品 为监控而生的数据库连接池程序员简历模板系列 包括PHP程序员简历模板 iOS程序员简历模板 Android程序员简历模板 Web前端程序员简历模板 Java程序员简历模板 C C 程序员简历模板 NodeJS程序员简历模板 架构师简历模板以及通用程序员简历模板采用自身模块规范编写的前端 UI 框架 遵循原生 HTML CSS JS 的书写形式 极低门槛 拿来即用 贵校课程资料民间整理 企业级低代码平台 前后端分离架构强大的代码生成器让前后端代码一键生成 无需写任何代码 引领新的开发模式OnlineCoding 代码生成 手工MERGE 帮助Java项目解决7 %重复工作 让开发更关注业务 既能快速提高效率 帮助公司节省成本 同时又不失灵活性 我是依扬 木易杨 公众号 高级前端进阶 作者 每天搞定一道前端大厂面试题 祝大家天天进步 一年后会看到不一样的自己 冴羽写博客的地方 预计写四个系列 JavaScript深入系列 JavaScript专题系列 ES6系列 React系列 中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理flutter 开发者帮助 APP 包含 flutter 常用 14 组件的demo 演示与中文文档 下拉刷新 上拉加载 二级刷新 淘宝二楼智能下拉刷新框架 支持越界回弹 越界拖动 具有极强的扩展性 集成了几十种炫酷的Header和 Footer 该项目已成功集成 actuator 监控 admin 可视化监控 logback 日志 aopLog 通过AOP记录web请求日志 统一异常处理 json级别和页面级别 freemarker 模板引擎 thymeleaf 模板引擎 Beetl 模板引擎 Enjoy 模板引擎 JdbcTemplate 通用JDBC操作数据库 JPA 强大的ORM框架 mybatis 强大的ORM框架 通用Mapper 快速操作Mybatis PageHelper 通用的Mybatis分页插件 mybatis plus 快速操作Mybatis BeetlSQL 强大的ORM框架 u Python资源大全中文版 包括 Web框架 网络爬虫 模板引擎 数据库 数据可视化 图片处理等 由 开源前哨 和 Python开发者 微信公号团队维护更新 吴恩达老师的机器学习课程个人笔记To Be Top Javaer Java工程师成神之路循序渐进 学习博客Spring系列源码 mrbird cc谢谢可能是让你受益匪浅的英语进阶指南镜像网易云音乐 Node js API service快速 简单避免OOM的java处理Excel工具基于 Vue js 的小程序开发框架 从底层支持 Vue js 语法和构建工具体系 中文版 Apple 官方 Swift 教程本项目曾冲到全球第一 干货集锦见本页面最底部 另完整精致的纸质版 编程之法 面试和算法心得 已在京东 当当上销售好耶 是女装Security Guide for Developers 实用性开发人员安全须知 阿里巴巴 MySQL binlog 增量订阅 消费组件  ECMAScript 6入门 是一本开源的 JavaScript 语言教程 全面介绍 ECMAScript 6 新增的语法特性  C C 技术面试基础知识总结 包括语言 程序库 数据结构 算法 系统 网络 链接装载库等知识及面试经验 招聘 内推等信息 一款优秀的开源博客发布应用  Solutions to LeetCode by Go 1 % test coverage runtime beats 1 % LeetCode 题解分布式任务调度平台XXL JOB  谷粒 Chrome插件英雄榜 为优秀的Chrome插件写一本中文说明书 让Chrome插件英雄们造福人类公众号 加1 同步更新互联网公司技术架构 微信 淘宝 微博 腾讯 阿里 美团点评 百度 Google Facebook Amazon eBay的架构 欢迎PR补充IntelliJ IDEA 简体中文专题教程程序员技能图谱前端面试每日 3 1 以面试题来驱动学习 提倡每日学习与思考 每天进步一点 每天早上5点纯手工发布面试题 死磕自己 愉悦大家 4 道前端面试题全面覆盖小程序 软技能 华为鸿蒙操作系统 互联网首份程序员考公指南 由3位已经进入体制内的前大厂程序员联合献上 Mac微信功能拓展 微信插件 微信小助手 A plugin for Mac WeChat  机器学习 西瓜书 公式推导解析 在线阅读地址一款轻量级 高性能 功能强大的内网穿透代理服务器 支持tcp udp socks5 http等几乎所有流量转发 可用来访问内网网站 本地支付接口调试 ssh访问 远程桌面 内网dns解析 内网socks5代理等等 并带有功能强大的web管理端一款面向泛前端产品研发全生命周期的效率平台 文言文編程語言清华大学计算机系课程攻略面向云原生微服务的高可用流控防护组件  On Java 8 中文版 本文原文由知名 Hacker Eric S Raymond 所撰寫 教你如何正確的提出技術問題並獲得你滿意的答案 React Native指南汇集了各类react native学习资源 开源App和组件1 Days Of ML Code中文版千古前端图文教程 超详细的前端入门到进阶学习笔记 从零开始学前端 做一名精致优雅的前端工程师 公众号 千古壹号 作者 基于 React 的渐进式研发框架 ice work视频播放器支持弹幕 外挂字幕 支持滤镜 水印 gif截图 片头广告 中间广告 多个同时播放 支持基本的拖动 声音 亮度调节 支持边播边缓存 支持视频自带rotation的旋转 9 27 之类 重力旋转与手动旋转的同步支持 支持列表播放 列表全屏动画 视频加载速度 列表小窗口支持拖动 动画效果 调整比例 多分辨率切换 支持切换播放器 进度条小窗口预览 列表切换详情页面无缝播放 rtsp concat mpeg JumpServer 是全球首款开源的堡垒机 是符合 4A 的专业运维安全审计系统 Linux命令大全搜索工具 内容包含Linux命令手册 详解 学习 搜集 git io linux book Node js 包教不包会 by alsotang又一个小商城 litemall Spring Boot后端 Vue管理员前端 微信小程序用户前端 Vue用户移动端微信 跳一跳 Python 辅助Java资源大全中文版 包括开发库 开发工具 网站 博客 微信 微博等 由伯乐在线持续更新  python模拟登陆一些大型网站 还有一些简单的爬虫 希望对你们有所帮助 ️ 如果喜欢记得给个star哦 C 那些事 网络爬虫实战 淘宝 京东 网易云 B站 123 6 抖音 笔趣阁 漫画小说下载 音乐电影下载等deeplearning ai 吴恩达老师的深度学习课程笔记及资源 Spring Boot基础教程 Spring Boot 2 x版本连载中 帮助 Android App 进行组件化改造的路由框架 最接近原生APP体验的高性能框架基于Vue3 Element Plus 的后台管理系统解决方案程序员如何优雅的挣零花钱 2 版 升级为小书了 从Java基础 JavaWeb基础到常用的框架再到面试题都有完整的教程 几乎涵盖了Java后端必备的知识点spring boot 实践学习案例 是 spring boot 初学者及核心技术巩固的最佳实践 另外写博客 用 OpenWrite 最好用的 V2Ray 一键安装脚本 管理脚本中国程序员容易发音错误的单词 统计学习方法 的代码实现关于Python的面试题本项目将 动手学深度学习 Dive into Deep Learning 原书中的MXNet实现改为PyTorch实现 提高 Android UI 开发效率的 UI 库前端精读周刊 帮你理解最前沿 实用的技术  的奇技淫巧时间选择器 省市区三级联动 Python爬虫代理IP池 proxy pool LeetCode 刷题攻略 2 道经典题目刷题顺序 共6 w字的详细图解 视频难点剖析 5 余张思维导图 从此算法学习不再迷茫 来看看 你会发现相见恨晚 一个基于 electron 的音乐软件Flutter 超完整的开源项目 功能丰富 适合学习和日常使用 GSYGithubApp系列的优势 我们目前已经拥有四个版本 功能齐全 项目框架内技术涉及面广 完成度高 持续维护 配套文章 适合全面学习 对比参考 跨平台的开源Github客户端App 更好的体验 更丰富的功能 旨在更好的日常管理和维护个人Github 提供更好更方便的驾车体验Σ 同款Weex版本同款React Native版本 https g 这是一个用于显示当前网速 CPU及内存利用率的桌面悬浮窗软件 并支持任务栏显示 支持更换皮肤 是一个跨平台的强加密无特征的代理软件 零配置 V2rayU 基于v2ray核心的mac版客户端 用于科学上网 使用swift编写 支持vmess shadowsocks socks5等服务协议 支持订阅 支持二维码 剪贴板导入 手动配置 二维码分享等算法模板 最科学的刷题方式 最快速的刷题路径 你值得拥有 经典编程书籍大全 涵盖 计算机系统与网络 系统架构 算法与数据结构 前端开发 后端开发 移动开发 数据库 测试 项目与团队 程序员职业修炼 求职面试等wangEditor 轻量级web富文本框前端跨框架跨平台框架 每个 JavaScript 工程师都应懂的33个概念 leonardomso一个可以观看国内主流视频平台所有视频的客户端Android开发人员不得不收集的工具类集合 支付宝支付 微信支付 统一下单 微信分享 Zip4j压缩 支持分卷压缩与加密 一键集成UCrop选择圆形头像 一键集成二维码和条形码的扫描与生成 常用Dialog WebView的封装可播放视频 仿斗鱼滑动验证码 Toast封装 震动 GPS Location定位 图片缩放 Exif 图片添加地理位置信息 经纬度 蛛网等级 颜色选择器 ArcGis VTPK 编译运行一下说不定会找到惊喜 123 6 购票助手 支持集群 多账号 多任务购票以及 Web 页面管理  编程随想 收藏的电子书清单 多个学科 含下载链接  Banner 2 来了 Android广告图片轮播控件 内部基于ViewPager2实现 Indicator和UI都可以自定义  零代码 热更新 自动化 ORM 库 后端接口和文档零代码 前端 客户端 定制返回 JSON 的数据和结构 Linux Windows macOS 跨平台 V2Ray 客户端 支持使用 C Qt 开发 可拓展插件式设计 walle 瓦力 Devops开源项目代码部署平台基于 node js Mongodb 构建的后台系统 js 源码解析一个涵盖六个专栏分布式消息队列 分布式事务的仓库 希望胖友小手一抖 右上角来个 Star 感恩 1 24基于 vue element ui 的后台管理系统磁力链接聚合搜索中华人民共和国行政区划 省级 省份直辖市自治区 地级 城市 县级 区县 乡级 乡镇街道 村级 村委会居委会 中国省市区镇村二级三级四级五级联动地址数据 iOS开发常用三方库 插件 知名博客等等LeetCode题解 151道题完整版／中文文案排版指北最良心的 Python 教程 业内为数不多致力于极致体验的超强全自研跨平台 windows android iOS 流媒体内核 通过模块化自由组合 支持实时RTMP推流 RTSP推流 RTMP播放器 RTSP播放器 录像 多路流媒体转发 音视频导播 动态视频合成 音频混音 直播互动 内置轻量级RTSP服务等 比快更快 业界真正靠谱的超低延迟直播SDK 1秒内 低延迟模式下2 4 ms  一个 PHP 微信 SDK ️ 跨平台桌面端视频资源播放器 简洁无广告 免费高颜值 后台管理主线版本基于三者并行开发维护 同时支持电脑 手机 平板 切换分支查看不同的vue版本 element plus版本已发布 vue3 vue3 vue vue3 x vue js 程序无国界 但程序员有国界 中国国家尊严不容挑衅 如果您在特殊时期 此项目是机器学习 Machine Learning 深度学习 Deep Learning NLP面试中常考到的知识点和代码实现 也是作为一个算法工程师必会的理论基础知识 夜读 通过 bilibili 在线直播的方式分享 Go 相关的技术话题 每天大家在微信 telegram Slack 上及时沟通交流编程技术话题 GitHubDaily 分享内容定期整理与分类 欢迎推荐 自荐项目 让更多人知道你的项目  支持多家云存储的云盘系统机器学习相关教程DataX是阿里云DataWorks数据集成的开源版本  这里是写博客的地方 Halfrost Field 冰霜之地mall学习教程 架构 业务 技术要点全方位解析 mall项目 4 k star 是一套电商系统 使用现阶段主流技术实现 涵盖了等技术 采用Docker容器化部署  chick 是使用 Node js 和 MongoDB 开发的社区系统一个非常适合IT团队的在线API文档 技术文档工具汇总各大互联网公司容易考察的高频leetcode题 1 Chinese Word Vectors 上百种预训练中文词向量 Android开源弹幕引擎 烈焰弹幕使 ～深度学习框架PyTorch 入门与实战 网易云音乐命令行版本 对开发人员有用的定律 理论 原则和模式TeachYourselfCS 的中文翻译高颜值的第三方网易云播放器 支持 Windows macOS Linux spring cloud vue oAuth2 全家桶实战 前后端分离模拟商城 完整的购物流程 后端运营平台 可以实现快速搭建企业级微服务项目 支持微信登录等三方登录  Chinese sticker pack More joy 表情包的博物馆 Github最有毒的仓库 中国表情包大集合 聚欢乐 Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由一款入门级的人脸 视频 文字检测以及识别的项目 vue2 vue router vuex 入门项目PanDownload的个人维护版本 一个基于Spring Boot MyBatis的种子项目 用于快速构建中小型API RESTful API项目 iOS interview questions iOS面试题集锦 附答案 学习qq群或 Telegram 群交流为互联网IT人打造的中文版awesome go强大 可定制 易扩展的 ViewPager 指示器框架 是的最佳替代品 支持角标 更支持在非ViewPager场景下使用 使用hide show 切换Fragment或使用se Kubernetes中文指南 云原生应用架构实践手册For macOS 百度网盘 破解SVIP 下载速度限制 架构师技术图谱 助你早日成为架构师mall admin web是一个电商后台管理系统的前端项目 基于Vue Element实现 主要包括商品管理 订单管理 会员管理 促销管理 运营管理 内容管理 统计报表 财务管理 权限管理 设置等功能 网易云音乐第三方 编程随想 整理的 太子党关系网络 专门揭露赵国的权贵基于gin vue搭建的后台管理系统框架 集成jwt鉴权 权限管理 动态路由 分页封装 多点登录拦截 资源权限 上传下载 代码生成器 表单生成器 通用工作流等基础功能 五分钟一套CURD前后端代码 目VUE3版本正在重构 欢迎issue和pr 27天成为Java大神一个基于浏览器端 JS 实现的在线代理编程电子书 电子书 编程书籍 包括人工智能 大数据类 并发编程 数据库类 数据挖掘 新面试题 架构设计 算法系列 计算机类 设计模式 软件测试 重构优化 等更多分类ADB Usage Complete ADB 用法大全二维码生成器 支持 gif 动态图片二维码 Vim 从入门到精通阿布量化交易系统 股票 期权 期货 比特币 机器学习 基于python的开源量化交易 量化投资架构一个简洁优雅的hexo主题 Wiki of OI ICPC for everyone 某大型游戏线上攻略 内含炫酷算术魔法 Google 开源项目风格指南 中文版  Git AWS Google 镜像 SS SSR VMESS节点行业研究报告的知识储备库 cim cross IM 适用于开发者的分布式即时通讯系统微信小程序开源项目库汇总每天更新 全网热门 BT Tracker 列表 天用Go动手写 从零实现系列强大的哔哩哔哩增强脚本 下载视频 音乐 封面 弹幕 简化直播间 评论区 首页 自定义顶栏 删除广告 夜间模式 触屏设备支持Evil Huawei 华为作过的恶Android上一个优雅 万能自定义UI 仿iOS 支持垂直 水平方向切换 支持周视图 自定义周起始 性能高效的日历控件 支持热插拔实现的UI定制 支持标记 自定义颜色 农历 自定义月视图各种显示模式等 Canvas绘制 速度快 占用内存低 你真的想不到日历居然还可以如此优雅已不再维护科学上网插件的离线安装包储存在这里ThinkPHP Framework 十年匠心的高性能PHP框架 Java 程序员眼中的 Linux 一个支持多选 选原图和视频的图片选择器 同时有预览 裁剪功能 支持hsweb haʊs wɛb 是一个基于spring boot 2 x开发 首个使用全响应式编程的企业级后台管理系统基础项目 学习强国 懒人刷分工具 自动学习wxParse 微信小程序富文本解析自定义组件 支持HTML及markdown解析 newbee mall 项目 新蜂商城 是一套电商系统 包括 newbee mall 商城系统及 newbee mall admin 商城后台管理系统 基于 Spring Boot 2 X 及相关技术栈开发 前台商城系统包含首页门户 商品分类 新品上线 首页轮播 商品推荐 商品搜索 商品展示 购物车 订单结算 订单流程 个人订单管理 会员中心 帮助中心等模块 后台管理系统包含数据面板 轮播图管理 商品管理 订单管理 会员管理 分类管理 设置等模块  最全的前端资源汇总仓库 包括前端学习 开发资源 求职面试等 中文翻译手写实现李航 统计学习方法 书中全部算法 Python 抖音机器人 论如何在抖音上找到漂亮小姐姐？  ️A static blog writing client 一个静态博客写作客户端 超级速查表 编程语言 框架和开发工具的速查表 单个文件包含一切你需要知道的东西 迁移学习前端低代码框架 通过 JSON 配置就能生成各种页面 技术面试最后反问面试官的话Machine Learning Yearning 中文版 机器学习训练秘籍 Andrew Ng 著越来越多的网站具有反爬虫特性 有的用图片隐藏关键数据 有的使用反人类的验证码 建立反反爬虫的代码仓库 通过与不同特性的网站做斗争 无恶意 提高技术 欢迎提交难以采集的网站 因工作原因 项目暂停 本项目收藏这些年来看过或者听过的一些不错的常用的上千本书籍 没准你想找的书就在这里呢 包含了互联网行业大多数书籍和面试经验题目等等 有人工智能系列 常用深度学习框架TensorFlow pytorch keras NLP 机器学习 深度学习等等 大数据系列 Spark Hadoop Scala kafka等 程序员必修系列 C C java 数据结构 linux 设计模式 数据库等等  人人影视bot 完全对接人人影视全部无删减资源Spring Cloud基础教程 持续连载更新中一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具 让你的滚轮爽如触控板阿里妈妈前端团队出品的开源接口管理工具RAP第二代超轻量级中文ocr 支持竖排文字识别 支持ncnn mnn tnn推理总模型仅4 7M 微信全平台 SDK Senparc Weixin for C 支持 NET Framework 及 NET Core NET 6 已支持微信公众号 小程序 小游戏 企业号 企业微信 开放平台 微信支付 JSSDK 微信周边等全平台 WeChat SDK for C 中文独立博客列表高效率 QQ 机器人支持库支持定制任何播放器SDK和控制层 OpenPower工作组收集汇总的医院开放数据Xray 基于 Nginx 的 VLESS XTLS 一键安装脚本 FlutterDemo合集 今天你fu了吗莫烦Python 中文AI教学中国特色 TabBar 一行代码实现 Lottie 动画TabBar 支持中间带 号的TabBar样式 自带红点角标 支持动态刷新 Flutter豆瓣客户端 Awesome Flutter Project 全网最1 %还原豆瓣客户端 首页 书影音 小组 市集及个人中心 一个不拉 img xuvip top douyademo mp4 基于SpringCloud2 1的微服务开发脚手架 整合了等 服务治理方面引入等 让项目开发快速进入业务开发 而不需过多时间花费在架构搭建上 持续更新中基于 Vue2 和 ECharts 封装的图表组件 SSR 去广告ACL规则 SS完整GFWList规则 Clash规则碎片 Telegram频道订阅地址和我一步步部署 kubernetes 集群搜集 整理 维护实用规则 中文自然语言处理相关资料基于SOA架构的分布式电商购物商城 前后端分离 前台商城 全家桶 后台管理系统等What happens when 的中文翻译 原仓库QMUI iOS 致力于提高项目 UI 开发效率的解决方案新型冠状病毒防疫信息收集平台告别枯燥 致力于打造 Python 实用小例子在线制作 sorry 为所欲为 的gifNodejs学习笔记以及经验总结 公众号 程序猿小卡 李宏毅 机器学习 笔记 在线阅读地址 Vue js 源码分析V部落 Vue SpringBoot实现的多用户博客管理平台 Android Signature V2 Scheme签名下的新一代渠道包打包神器Autoscroll Banner 无限循环图片 文字轮播器 多种编程语言实现 LeetCode 剑指 Offer 第 2 版 程序员面试金典 第 6 版 题解一套高质量的微信小程序 UI 组件库飞桨 官方模型库 包含多种学术前沿和工业场景验证的深度学习模型 中文 Python 笔记专门为刚开始刷题的同学准备的算法基地 没有最细只有更细 立志用动画将晦涩难懂的算法说的通俗易懂 版入门实例代码 实战教程 是一个高性能且低损耗的 goroutine 池 CVPR 2 21 论文和开源项目合集有 有  Python进阶 Intermediate Python 中文版 机器人视觉 移动机器人 VS SLAM ORB SLAM2 深度学习目标检测 yolov3 行为检测 opencv PCL 机器学习 无人驾驶后台管理系统解决方案创建在线课程 学术简历或初创网站  Chrome插件开发全攻略 配套完整Demo 欢迎clone体验QUANTAXIS 支持任务调度 分布式部署的 股票 期货 期权 港股 虚拟货币 数据 回测 模拟 交易 可视化 多账户 纯本地量化解决方案微信调试 各种WebView样式调试 手机浏览器的页面真机调试 便捷的远程调试手机页面 抓包工具 支持 HTTPS 无需USB连接设备 rich text 富文本编辑器 汉字拼音 hàn zì pīn yīn面向开发人员梳理的代码安全指南以撸代码的形式学习Python提供同花顺客户端 国金 华泰客户端 雪球的基金 股票自动程序化交易以及自动打新 支持跟踪 joinquant ricequant 模拟交易 和 实盘雪球组合 量化交易组件搜狐视频 sohu tv Redis私有云平台spring boot打造文件文档在线预览项目计算机基础 计算机网络 操作系统 数据库 Git 面试问题全面总结 包含详细的follow up question以及答案 全部采用 问题 追问 答案 的形式 即拿即用 直击互联网大厂面试 可用于模拟面试 面试前复习 短期内快速备战面试 首款微信 macOS 客户端撤回拦截与多开windows kernel exploits Windows平台提权漏洞集合权限管理系统 预览地址 47 1 4 7 138 loginpkuseg多领域中文分词工具一款完善的安全评估工具 支持常见 web 安全问题扫描和自定义 poc 使用之前务必先阅读文档零反射全动态Android插件框架Python入门网络爬虫之精华版分布式配置管理平台 中文 iOS Mac 开发博客列表周志华 机器学习 又称西瓜书是一本较为全面的书籍 书中详细介绍了机器学习领域不同类型的算法 例如 监督学习 无监督学习 半监督学习 强化学习 集成降维 特征选择等 记录了本人在学习过程中的理解思路与扩展知识点 希望对新人阅读西瓜书有所帮助  国内首个Spring Cloud微服务化RBAC的管理平台 核心采用前端采用d2 admin中台框架 记得上边点个star 关注更新Apache ECharts incubating 的微信小程序版本C 资源大全中文版 标准库 Web应用框架 人工智能 数据库 图片处理 机器学习 日志 代码分析等 由 开源前哨 和 CPP开发者 微信公号团队维护更新 stackoverflow上Java相关回答整理翻译 基于Google Flutter的WanAndroid客户端 支持Android和iOS 包括BLoC RxDart 国际化 主题色 启动页 引导页  本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总 旨在为大家提供一个清晰详细的学习教程 侧重点更倾向编写Java核心内容 如果本仓库能为您提供帮助 请给予支持 关注 点赞 分享 C 资源大全中文版 包括了 构建系统 编译器 数据库 加密 初中高的教程 指南 书籍 库等  NET m3u8 downloader 开源的命令行m3u8 HLS dash下载器 支持普通AES 128 CBC解密 多线程 自定义请求头等 支持简体中文 繁体中文和英文 English Supported 国内低代码平台从业者交流tcc transaction是TCC型事务java实现设计模式 Golang实现 研磨设计模式 读书笔记Vue数据可视化组件库 类似阿里DataV 大屏数据展示 提供SVG的边框及装饰 图表 水位图 飞线图等组件 简单易用 长期更新 React版已发布 自己动手做聊天机器人教程 RecyclerView侧滑菜单 Item拖拽 滑动删除Item 自动加载更多 HeaderView FooterView Item分组黏贴 腾讯物联网终端操作系统一个小巧 轻量的浏览器内核 用来取代wke和libcef包含美颜等4 余种实时滤镜相机 可拍照 录像 图片修改springboot 框架与其它组件结合如等用深度学习对对联  技术面试必备基础知识 Leetcode 计算机操作系统 计算机网络 系统设计 Java学习 面试指南 一份涵盖大部分 Java 程序员所需要掌握的核心知识 准备 Java 面试 首选 JavaGuide 用动画的形式呈现解LeetCode题目的思路 互联网 Java 工程师进阶知识完全扫盲 涵盖高并发 分布式 高可用 微服务 海量数据处理等领域知识mall项目是一套电商系统 包括前台商城系统及后台管理系统 基于SpringBoot MyBatis实现 采用Docker容器化部署 前台商城系统包含首页门户 商品推荐 商品搜索 商品展示 购物车 订单流程 会员中心 客户服务 帮助中心等模块 后台管理系统包含商品管理 订单管理 会员管理 促销管理 运营管理 内容管理 统计报表 财务管理 权限管理 设置等模块  GitHub中文排行榜 帮助你发现高分优秀中文项目 更高效地吸收国人的优秀经验成果 榜单每周更新一次 敬请关注  算法面试 算法知识 针对小白的算法训练 还包括 1 阿里 字节 滴滴 百篇大厂面经汇总 2 千本开源电子书 3 百张思维导图 右侧来个 star 吧 English version supported 诊断利器Arthas教程 技术栈示例代码 快速简单上手教程 http下载工具 基于http代理 支持多连接分块下载阿里云计算平台团队出品 为监控而生的数据库连接池 企业级低代码平台 前后端分离架构强大的代码生成器让前后端代码一键生成 无需写任何代码 引领新的开发模式OnlineCoding 代码生成 手工MERGE 帮助Java项目解决7 %重复工作 让开发更关注业务 既能快速提高效率 帮助公司节省成本 同时又不失灵活性  下拉刷新 上拉加载 二级刷新 淘宝二楼智能下拉刷新框架 支持越界回弹 越界拖动 具有极强的扩展性 集成了几十种炫酷的Header和 Footer 该项目已成功集成 actuator 监控 admin 可视化监控 logback 日志 aopLog 通过AOP记录web请求日志 统一异常处理 json级别和页面级别 freemarker 模板引擎 thymeleaf 模板引擎 Beetl 模板引擎 Enjoy 模板引擎 JdbcTemplate 通用JDBC操作数据库 JPA 强大的ORM框架 mybatis 强大的ORM框架 通用Mapper 快速操作Mybatis PageHelper 通用的Mybatis分页插件 mybatis plus 快速操作Mybatis BeetlSQL 强大的ORM框架 u 微人事是一个前后端分离的人力资源管理系统 项目采用SpringBoot Vue开发  秒杀系统设计与实现 互联网工程师进阶与分析 To Be Top Javaer Java工程师成神之路循序渐进 学习博客Spring系列源码 mrbird cc快速 简单避免OOM的java处理Excel工具阿里巴巴 MySQL binlog 增量订阅 消费组件  一款优秀的开源博客发布应用 分布式任务调度平台XXL JOB 一款面向泛前端产品研发全生命周期的效率平台 面向云原生微服务的高可用流控防护组件 视频播放器支持弹幕 外挂字幕 支持滤镜 水印 gif截图 片头广告 中间广告 多个同时播放 支持基本的拖动 声音 亮度调节 支持边播边缓存 支持视频自带rotation的旋转 9 27 之类 重力旋转与手动旋转的同步支持 支持列表播放 列表全屏动画 视频加载速度 列表小窗口支持拖动 动画效果 调整比例 多分辨率切换 支持切换播放器 进度条小窗口预览 列表切换详情页面无缝播放 rtsp concat mpeg 又一个小商城 litemall Spring Boot后端 Vue管理员前端 微信小程序用户前端 Vue用户移动端基于Spring SpringMVC Mybatis分布式敏捷开发系统架构 提供整套公共微服务服务模块 集中权限管理 单点登录 内容管理 支付中心 用户管理 支持第三方登录 微信平台 存储系统 配置中心 日志分析 任务和通知等 支持服务治理 监控和追踪 努力为中小型企业打造全方位J2EE企业级开发解决方案 项目基于的前后端分离的后台管理系统 项目采用分模块开发方式 权限控制采用 RBAC 支持数据字典与数据权限管理 支持一键生成前后端代码 支持动态路由 史上最简单的Spring Cloud教程源码 CAT 作为服务端项目基础组件 提供了 Java C C Node js Python Go 等多语言客户端 已经在美团点评的基础架构中间件框架 MVC框架 RPC框架 数据库框架 缓存框架等 消息队列 配置系统等 深度集成 为美团点评各业务线提供系统丰富的性能指标 健康状况 实时告警等 spring boot 实践学习案例 是 spring boot 初学者及核心技术巩固的最佳实践 另外写博客 用 OpenWrite Spring Boot基础教程 Spring Boot 2 x版本连载中 帮助 Android App 进行组件化改造的路由框架 提高 Android UI 开发效率的 UI 库时间选择器 省市区三级联动 Luban 鲁班可能是最接近微信朋友圈的图片压缩算法 Gitee 最有价值开源项目 小而全而美的第三方登录开源组件 目前已支持Github Gitee 微博 钉钉 百度 Coding 腾讯云开发者平台 OSChina 支付宝 QQ 微信 淘宝 Google Facebook 抖音 领英 小米 微软 今日头条人人 华为 企业微信 酷家乐 Gitlab 美团 饿了么 推特 飞书 京东 阿里云 喜马拉雅 Amazon Slack和 Line 等第三方平台的授权登录 Login so easy 今日头条屏幕适配方案终极版 一个极低成本的 Android 屏幕适配方案  Banner 2 来了 Android广告图片轮播控件 内部基于ViewPager2实现 Indicator和UI都可以自定义  零代码 热更新 自动化 ORM 库 后端接口和文档零代码 前端 客户端 定制返回 JSON 的数据和结构一个涵盖六个专栏分布式消息队列 分布式事务的仓库 希望胖友小手一抖 右上角来个 Star 感恩 1 24Mybatis通用分页插件OkGo 3 震撼来袭 该库是基于 协议 封装了 OkHttp 的网络请求框架 比 Retrofit 更简单易用 支持 RxJava RxJava2 支持自定义缓存 支持批量断点下载管理和批量上传管理功能含 Flink 入门 概念 原理 实战 性能调优 源码解析等内容 涉及等内容的学习案例 还有 Flink 落地应用的大型项目案例 PVUV 日志存储 百亿数据实时去重 监控告警 分享 欢迎大家支持我的专栏 大数据实时计算引擎 Flink 实战与性能优化 安卓平台上的JavaScript自动化工具  ️一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架 Spring源码阅读大数据入门指南 android 4 4以上沉浸式状态栏和沉浸式导航栏管理 适配横竖屏切换 刘海屏 软键盘弹出等问题 可以修改状态栏字体颜色和导航栏图标颜色 以及不可修改字体颜色手机的适配 适用于一句代码轻松实现 以及对bar的其他设置 详见README 简书请参考 www jianshu com p 2a884e211a62业内为数不多致力于极致体验的超强全自研跨平台 windows android iOS 流媒体内核 通过模块化自由组合 支持实时RTMP推流 RTSP推流 RTMP播放器 RTSP播放器 录像 多路流媒体转发 音视频导播 动态视频合成 音频混音 直播互动 内置轻量级RTSP服务等 比快更快 业界真正靠谱的超低延迟直播SDK 1秒内 低延迟模式下2 4 ms DataX是阿里云DataWorks数据集成的开源版本 mall学习教程 架构 业务 技术要点全方位解析 mall项目 4 k star 是一套电商系统 使用现阶段主流技术实现 涵盖了等技术 采用Docker容器化部署 Android开源弹幕引擎 烈焰弹幕使 ～spring cloud vue oAuth2 全家桶实战 前后端分离模拟商城 完整的购物流程 后端运营平台 可以实现快速搭建企业级微服务项目 支持微信登录等三方登录  一个基于Spring Boot MyBatis的种子项目 用于快速构建中小型API RESTful API项目 强大 可定制 易扩展的 ViewPager 指示器框架 是的最佳替代品 支持角标 更支持在非ViewPager场景下使用 使用hide show 切换Fragment或使用se 27天成为Java大神安卓学习笔记 cim cross IM 适用于开发者的分布式即时通讯系统Android上一个优雅 万能自定义UI 仿iOS 支持垂直 水平方向切换 支持周视图 自定义周起始 性能高效的日历控件 支持热插拔实现的UI定制 支持标记 自定义颜色 农历 自定义月视图各种显示模式等 Canvas绘制 速度快 占用内存低 你真的想不到日历居然还可以如此优雅hsweb haʊs wɛb 是一个基于spring boot 2 x开发 首个使用全响应式编程的企业级后台管理系统基础项目  newbee mall 项目 新蜂商城 是一套电商系统 包括 newbee mall 商城系统及 newbee mall admin 商城后台管理系统 基于 Spring Boot 2 X 及相关技术栈开发 前台商城系统包含首页门户 商品分类 新品上线 首页轮播 商品推荐 商品搜索 商品展示 购物车 订单结算 订单流程 个人订单管理 会员中心 帮助中心等模块 后台管理系统包含数据面板 轮播图管理 商品管理 订单管理 会员管理 分类管理 设置等模块 mall swarm是一套微服务商城系统 采用了等核心技术 同时提供了基于Vue的管理后台方便快速搭建系统 mall swarm在电商业务的基础集成了注册中心 配置中心 监控中心 网关等系统功能 文档齐全 附带全套Spring Cloud教程 阅读是一款可以自定义来源阅读网络内容的工具 为广大网络文学爱好者提供一种方便 快捷舒适的试读体验 Spring Cloud基础教程 持续连载更新中阿里巴巴分布式数据库同步系统 解决中美异地机房  基于谷歌最新AAC架构 MVVM设计模式的一套快速开发库 整合OkRxJava Retrofit Glide等主流模块 满足日常开发需求 使用该框架可以快速开发一个高质量 易维护的Android应用 基于SpringCloud2 1的微服务开发脚手架 整合了等 服务治理方面引入等 让项目开发快速进入业务开发 而不需过多时间花费在架构搭建上 持续更新中基于SOA架构的分布式电商购物商城 前后端分离 前台商城 全家桶 后台管理系统等是 难得一见 的 Jetpack MVVM 最佳实践 在 以简驭繁 的代码中 对 视图控制器 乃至 标准化开发模式 形成正确 深入的理解 V部落 Vue SpringBoot实现的多用户博客管理平台 Android Signature V2 Scheme签名下的新一代渠道包打包神器即时通讯 IM 系统多种编程语言实现 LeetCode 剑指 Offer 第 2 版 程序员面试金典 第 6 版 题解专门为刚开始刷题的同学准备的算法基地 没有最细只有更细 立志用动画将晦涩难懂的算法说的通俗易懂 ansj分词 ict的真正java实现 分词效果速度都超过开源版的ict 中文分词 人名识别 词性标注 用户自定义词典 book 任阅 网络小说阅读器 3D翻页效果 txt pdf epub书籍阅读 Wifi传书 LeetCode刷题记录与面试整理mybatis generator界面工具 让你生成代码更简单更快捷Spring Cloud 学习案例 服务发现 服务治理 链路追踪 服务监控等 XPopup2 版本重磅来袭 2倍以上性能提升 带来可观的动画性能优化和交互细节的提升 功能强大 交互优雅 动画丝滑的通用弹窗 可以替代等组件 自带十几种效果良好的动画 支持完全的UI和动画自定义搜狐视频 sohu tv Redis私有云平台spring boot打造文件文档在线预览项目权限管理系统 预览地址 47 1 4 7 138 login零反射全动态Android插件框架分布式配置管理平台 通用 IM 聊天 UI 组件 已经同时支持 Android iOS RN 手把手教你整合最优雅SSM框架 SpringMVC Spring MyBatis换肤框架 极低的学习成本 极好的用户体验 一行 代码就可以实现换肤 你值得拥有  JVM 底层原理最全知识总结 国内首个Spring Cloud微服务化RBAC的管理平台 核心采用前端采用d2 admin中台框架 记得上边点个star 关注更新tcc transaction是TCC型事务java实现 RecyclerView侧滑菜单 Item拖拽 滑动删除Item 自动加载更多 HeaderView FooterView Item分组黏贴 包含美颜等4 余种实时滤镜相机 可拍照 录像 图片修改springboot 框架与其它组件结合如等安卓选择器类库 包括日期及时间选择器 可用于出生日期 营业时间等 单项选择器 可用于性别 民族 职业 学历 星座等 二三级联动选择器 可用于车牌号 基金定投日期等 城市地址选择器 分省级 地市级及区县级 数字选择器 可用于年龄 身高 体重 温度等 日历选日期择器 可用于酒店及机票预定日期 颜色选择器 文件及目录选择器等 Java工程师面试复习指南 本仓库涵盖大部分Java程序员所需要掌握的核心知识 整合了互联网上的很多优质Java技术文章 力求打造为最完整最实用的Java开发者学习指南 如果对你有帮助 给个star告诉我吧 谢谢  Android MVP 快速开发框架 做国内 示例最全面 注释最详细 使用最简单 代码最严谨 的 Android 开源 UI 框架几行代码快速集成二维码扫描功能MeterSphere 是一站式开源持续测试平台 涵盖测试跟踪 接口测试 性能测试 团队协作等功能 全面兼容 JMeter Postman Swagger 等开源 主流标准 记录各种学习笔记 算法 Java 数据库 并发 下一代Android打包工具 1 个渠道包只需要1 秒钟芋道 mall 商城 基于微服务的思想 构建在 B2C 电商场景下的项目实战 核心技术栈 是 Spring Boot Dubbo 未来 会重构成 Spring Cloud Alibaba Android 万能的等 支持多种Item类型的情况 lanproxy是一个将局域网个人电脑 服务器代理到公网的内网穿透工具 支持tcp流量转发 可支持任何tcp上层协议 访问内网网站 本地支付接口调试 ssh访问 远程桌面 目前市面上提供类似服务的有花生壳 TeamView GoToMyCloud等等 但要使用第三方的公网服务器就必须为第三方付费 并且这些服务都有各种各样的限制 此外 由于数据包会流经第三方 因此对数据安全也是一大隐患 技术交流QQ群 1 6742433 更优雅的驾车体验下载可以很简单 ️ 云阅 一款基于网易云音乐UI 使用玩架构开发的符合Google Material Design的Android客户端开源的 Material Design 豆瓣客户端一款针对系统PopupWindow优化的Popup库 功能强大 支持背景模糊 使用简单 你会爱上他的 PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK 采用全自研的跨平台播放内核 拥有丰富的功能和优异的性能 可高度定制化和二次开发 该项目已停止维护 9 Porn Android 客户端 突破游客每天观看1 次视频的限制 还可以下载视频 ️蓝绿 灰度 路由 限流 熔断 降级 隔离 追踪 流量染色 故障转移一本关于排序算法的 GitBook 在线书籍 十大经典排序算法 多语言实现 多种下拉刷新效果 上拉加载更多 可配置自定义头部广告位完全仿微信的图片选择 并且提供了多种图片加载接口 选择图片后可以旋转 可以裁剪成矩形或圆形 可以配置各种其他的参数SoloPi 自动化测试工具龙果支付系统 roncoo pay 是国内首款开源的互联网支付系统 拥有独立的账户体系 用户体系 支付接入体系 支付交易体系 对账清结算体系 目标是打造一款集成主流支付方式且轻量易用的支付收款系统 满足互联网业务系统打通支付通道实现支付收款和业务资金管理等功能 键盘面板冲突 布局闪动处理方案  咕泡学院实战项目 基于SpringBoot Dubbo构建的电商平台 微服务架构 商城 电商 微服务 高并发 kafka Elasticsearch停车场系统源码 停车场小程序 智能停车 Parking system 功能介绍 ①兼容市面上主流的多家相机 理论上兼容所有硬件 可灵活扩展 ②相机识别后数据自动上传到云端并记录 校验相机唯一id和硬件序列号 防止非法数据录入 ③用户手机查询停车记录详情可自主缴费 支持微信 支付宝 银行接口支付 支持每个停车场指定不同的商户进行收款 支付后出场在免费时间内会自动抬杆 ④支持app上查询附近停车场 导航 可用车位数 停车场费用 优惠券 评分 评论等 可预约车位 ⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入 技术架构 后端开发语言java 框架oauth2 spring 成长路线 但学到不仅仅是Java 业界首个支持渐进式组件化改造的Android组件化开源框架 支持跨进程调用SpringBoot2 从入门到实战 旨在打造在线最佳的 Java 学习笔记 含博客讲解和源码实例 包括 Java SE 和 Java WebJava诊断工具年薪百万互联网架构师课程文档及源码 公开部分 AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括 手机端抓包 PING DNS TraceRoute诊断 抓包HAR数据上传分享 你也可以看成是Android版的 Fiddler o 这可能是史上功能最全的Java权限认证框架 目前已集成 登录认证 权限认证 分布式Session会话 微服务网关鉴权 单点登录 OAuth2 踢人下线 Redis集成 前后台分离 记住我模式 模拟他人账号 临时身份切换 账号封禁 多账号认证体系 注解式鉴权 路由拦截式鉴权 花式token生成 自动续签 同端互斥登录 会话治理 密码加密 jwt集成 Spring集成 WebFlux集成 Android平台下的富文本解析器 支持Html和Markdown智能图片裁剪框架 自动识别边框 手动调节选区 使用透视变换裁剪并矫正选区 适用于身份证 名片 文档等照片的裁剪 俗名 可垂直跑 可水平跑的跑马灯 学名 可垂直翻 可水平翻的翻页公告 小马哥技术周报 Android Video Player 安卓视频播放器 封装模仿抖音并实现预加载 列表播放 悬浮播放 广告播放 弹幕 重学Java设计模式 是一本互联网真实案例实践书籍 以落地解决方案为核心 从实际业务中抽离出 交易 营销 秒杀 中间件 源码等22个真实场景 来学习设计模式的运用 欢迎关注小傅哥 微信 fustack 公众号 bugstack虫洞栈 博客 bugstack cnmybatis源码中文注释一款开源的GIF在线分享App 乐趣就要和世界分享 MPush开源实时消息推送系统在线云盘 网盘 OneDrive 云存储 私有云 对象存储 h5ai基于Spring Boot 2 x的一站式前后端分离快速开发平台XBoot 微信小程序 Uniapp 前端 Vue iView Admin 后端分布式限流 同步锁 验证码 SnowFlake雪花算法ID 动态权限 数据权限 工作流 代码生成 定时任务 社交账号 短信登录 单点登录 OAuth2开放平台 客服机器人 数据大屏 暗黑模式Guns基于SpringBoot 2 致力于做更简洁的后台管理系统 完美整合项目代码简洁 注释丰富 上手容易 同时Guns包含许多基础模块 用户管理 角色管理 部门管理 字典管理等1 个模块 可以直接作为一个后台管理系统的脚手架  Android 版本更新一个简洁而优雅的Android原生UI框架 解放你的双手 一套完整有效的android组件化方案 支持组件的组件完全隔离 单独调试 集成调试 组件交互 UI跳转 动态加载卸载等功能适用于Java和Android的快速 低内存占用的汉字转拼音库 Codes of my MOOC Course &lt;我在慕课网上的课程 算法与数据结构 示例代码 包括C 和Java版本 课程的更多更新内容及辅助练习也将逐步添加进这个代码仓  Hope Boot 一款现代化的脚手架项目一个简单漂亮的SSM Spring SpringMVC Mybatis 博客系统根据Gson库使用的要求 将JSONObject格式的String 解析成实体B站 哔哩哔哩 Bilibili 自动签到投币工具 每天轻松获取65经验值 支持每日自动投币 银瓜子兑换硬币 领取大会员福利 大会员月底给自己充电等功能 呐 赶快和我一起成为Lv6吧 IJPay 让支付触手可及 封装了微信支付 QQ支付 支付宝支付 京东支付 银联支付 PayPal 支付等常用的支付方式以及各种常用的接口 不依赖任何第三方 mvc 框架 仅仅作为工具使用简单快速完成支付模块的开发 可轻松嵌入到任何系统里 右上角点下小星星  High quality pure Weex demo 网易严选 App 感受 Weex 开发Android 快速实现新手引导层的库 通过简洁链式调用 一行代码实现引导层的显示通过标签直接生成shape 无需再写shape xml 本库是一款基于RxJava2 Retrofit2实现简单易用的网络请求框架 结合android平台特性的网络封装库 采用api链式调用一点到底 集成cookie管理 多种缓存模式 极简https配置 上传下载进度显示 请求错误自动重试 请求携带token 时间戳 签名sign动态配置 自动登录成功后请求重发功能 3种层次的参数设置默认全局局部 默认标准ApiResult同时可以支持自定义的数据结构 已经能满足现在的大部分网络请求 Android BLE蓝牙通信库 基于Flink实现的商品实时推荐系统 flink统计商品热度 放入redis缓存 分析日志信息 将画像标签和实时记录放入Hbase 在用户发起推荐请求后 根据用户画像重排序热度榜 并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品 最后返回新的用户列表 播放器基础库 专注于播放视图组件的高复用性和组件间的低耦合 轻松处理复杂业务 图片选择库 单选 多选 拍照 裁剪 压缩 自定义 包括视频选择和录制 DataX集成可视化页面 选择数据源即可一键生成数据同步任务 支持等数据源 批量创建RDBMS数据同步任务 集成开源调度系统 支持分布式 增量同步数据 实时查看运行日志 监控执行器资源 KILL运行进程 数据源信息加密等  Deprecated android 自定义日历控件 支持左右无限滑动 周月切换 标记日期显示 自定义显示效果跳转到指定日期一个通过动态加载本地皮肤包进行换肤的皮肤框架这是RedSpider社区成员原创与维护的Java多线程系列文章 一站式Apache Kafka集群指标监控与运维管控平台快速开发工具类收集 史上最全的开发工具类 欢迎Follow Fork Star后端技术总结 包括Java基础 JVM 数据库 mysql redis 计算机网络 算法 数据结构 操作系统 设计模式 系统设计 框架原理 最佳阅读地址Android源码设计模式分析项目可能是最好的支付SDK 停止维护 组件化综合案例 包含微信新闻 头条视频 美女图片 百度音乐 干活集中营 玩Android 豆瓣读书电影 知乎日报等等模块 架构模式 组件化阿里VLayout 腾讯X5 腾讯bugly 融合开发中需要的各种小案例 开源OA系统 码云GVP Java开源oa 企业OA办公平台 企业OA 协同办公OA 流程平台OA O2OA OA 支持国产麒麟操作系统和国产数据库 达梦 人大金仓 政务OA 军工信息化OA以Spring Cloud Netflix作为服务治理基础 展示基于tcc思想所实现的分布式事务解决方案一个帮助您完成从缩略视图到原视图无缝过渡转变的神奇框架 系统重构与迁移指南 手把手教你分析 评估现有系统 制定重构策略 探索可行重构方案 搭建测试防护网 进行系统架构重构 服务架构重构 模块重构 代码重构 数据库重构 重构后的架构守护版本检测升级 更新 库小说精品屋是一个多平台 web 安卓app 微信小程序 功能完善的屏幕自适应小说漫画连载系统 包含精品小说专区 轻小说专区和漫画专区 包括小说 漫画分类 小说 漫画搜索 小说 漫画排行 完本小说 漫画 小说 漫画评分 小说 漫画在线阅读 小说 漫画书架 小说 漫画阅读记录 小说下载 小说弹幕 小说 漫画自动采集 更新 纠错 小说内容自动分享到微博 邮件自动推广 链接自动推送到百度搜索引擎等功能 Android 徽章控件 致力于打造一款极致体验的 www wanandroid com 客户端 知识和美是可以并存的哦QAQn ≧ ≦ n 从源码层面 剖析挖掘互联网行业主流技术的底层实现原理 为广大开发者 “提升技术深度” 提供便利 目前开放 Spring 全家桶 Mybatis Netty Dubbo 框架 及 Redis Tomcat 中间件等Redis 一站式管理平台 支持集群的监控 安装 管理 告警以及基本的数据操作该项目不再维护 仅供学习参考专注批量推送的小而美的工具 目前支持 模板消息 公众号 模板消息 小程序 微信客服消息 微信企业号 企业微信消息 阿里云短信 阿里大于模板短信 腾讯云短信 云片网短信 E Mail HTTP请求 钉钉 华为云短信 百度云短信 又拍云短信 七牛云短信Android 平台开源天气 App 采用等开源库来实现 SpringBoot 相关漏洞学习资料 利用方法和技巧合集 黑盒安全评估 check listAndroid 权限请求框架 已适配 Android 11微信SDK JAVA 公众平台 开放平台 商户平台 服务商平台  QMQ是去哪儿网内部广泛使用的消息中间件 自2 12年诞生以来在去哪儿网所有业务场景中广泛的应用 包括跟交易息息相关的订单场景 也包括报价搜索等高吞吐量场景  Java 23种设计模式全归纳linux运维监控工具 支持系统信息 内存 cpu 温度 磁盘空间及IO 硬盘smart 系统负载 网络流量 进程等监控 API接口 大屏展示 拓扑图 端口监控 docker监控 日志文件监控 数据可视化 webSSH工具 堡垒机 跳板机 这可能是全网最好用的ViewPager轮播图 简单 高效 一行代码实现循环轮播 一屏三页任意变 指示器样式任你挑 一种简单有效的android组件化方案 支持组件的代码资源隔离 单独调试 集成调试 组件交互 UI跳转 生命周期等完整功能 一个强大 1 % 兼容 支持 AndroidX 支持 Kotlin并且灵活的组件化框架JPress 一个使用 Java 开发的建站神器 目前已经有 1 w 网站使用 JPress 进行驱动 其中包括多个政府机构 2 上市公司 中科院 红 字会等 分布式事务易用的轻量化网络爬虫 Android系统源码分析重构中一款免费的数据可视化工具 报表与大屏设计 类似于excel操作风格 在线拖拽完成报表设计 功能涵盖 报表设计 图形报表 打印设计 大屏设计等 永久免费 秉承“简单 易用 专业”的产品理念 极大的降低报表开发难度 缩短开发周期 节省成本 解决各类报表难题 Android Activity 滑动返回 支持微信滑动返回样式 横屏滑动返回 全屏滑动返回SpringBoot 基础教程 从入门到上瘾 基于2 M5制作 仿微信视频拍摄UI 基于ffmpeg的视频录制编辑Python 1 天从新手到大师 分享 GitHub 上有趣 入门级的开源项目中英文敏感词 语言检测 中外手机 电话归属地 运营商查询 名字推断性别 手机号抽取 身份证抽取 邮箱抽取 中日文人名库 中文缩写库 拆字词典 词汇情感值 停用词 反动词表 暴恐词表 繁简体转换 英文模拟中文发音 汪峰歌词生成器 职业名称词库 同义词库 反义词库 否定词库 汽车品牌词库 汽车零件词库 连续英文切割 各种中文词向量 公司名字大全 古诗词库 IT词库 财经词库 成语词库 地名词库 历史名人词库 诗词词库 医学词库 饮食词库 法律词库 汽车词库 动物词库 中文聊天语料 中文谣言数据 百度中文问答数据集 句子相似度匹配算法集合 bert资源 文本生成 摘要相关工具 cocoNLP信息抽取 2 21年最新总结 阿里 腾讯 百度 美团 头条等技术面试题目 以及答案 专家出题人分析汇总 AiLearning 机器学习 MachineLearning ML 深度学习 DeepLearning DL 自然语言处理 NLP123 6智能刷票 订票结巴中文分词 动手学深度学习 面向中文读者 能运行 可讨论 中英文版被全球175所大学采用教学 中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理微信个人号接口 微信机器人及命令行微信 三十行即可自定义个人号机器人 数据结构和算法必知必会的5 个代码实现JumpServer 是全球首款开源的堡垒机 是符合 4A 的专业运维安全审计系统 飞桨 核心框架 深度学习 机器学习高性能单机 分布式训练和跨平台部署 中国程序员容易发音错误的单词微信 跳一跳 Python 辅助 python模拟登陆一些大型网站 还有一些简单的爬虫 希望对你们有所帮助 ️ 如果喜欢记得给个star哦  网络爬虫实战 淘宝 京东 网易云 B站 123 6 抖音 笔趣阁 漫画小说下载 音乐电影下载等Python爬虫代理IP池 proxy pool wtfpython的中文翻译 施工结束 能力有限 欢迎帮我改进翻译提供多款 Shadowrocket 规则 带广告过滤功能 用于 iOS 未越狱设备选择性地自动翻墙  123 6 购票助手 支持集群 多账号 多任务购票以及 Web 页面管理 walle 瓦力 Devops开源项目代码部署平台一些非常有趣的python爬虫例子 对新手比较友好 主要爬取淘宝 天猫 微信 豆瓣 QQ等网站机器学习相关教程1 Chinese Word Vectors 上百种预训练中文词向量 网易云音乐命令行版本一款入门级的人脸 视频 文字检测以及识别的项目  编程随想 整理的 太子党关系网络 专门揭露赵国的权贵微信助手 1 每日定时给好友 女友 发送定制消息 2 机器人自动回复好友 3 群助手功能 例如 查询垃圾分类 天气 日历 电影实时票房 快递物流 PM2 5等 二维码生成器 支持 gif 动态图片二维码 阿布量化交易系统 股票 期权 期货 比特币 机器学习 基于python的开源量化交易 量化投资架构 book 中华新华字典数据库 包括歇后语 成语 词语 汉字  Git AWS Google 镜像 SS SSR VMESS节点行业研究报告的知识储备库中文翻译手写实现李航 统计学习方法 书中全部算法 Python 抖音机器人 论如何在抖音上找到漂亮小姐姐？ 迁移学习python爬虫教程系列 从 到1学习python爬虫 包括浏览器抓包 手机APP抓包 如 fiddler mitmproxy 各种爬虫涉及的模块的使用 如等 以及IP代理 验证码识别 Mysql MongoDB数据库的python使用 多线程多进程爬虫的使用 css 爬虫加密逆向破解 JS爬虫逆向 分布式爬虫 爬虫项目实战实例等Python脚本 模拟登录知乎 爬虫 操作excel 微信公众号 远程开机越来越多的网站具有反爬虫特性 有的用图片隐藏关键数据 有的使用反人类的验证码 建立反反爬虫的代码仓库 通过与不同特性的网站做斗争 无恶意 提高技术 欢迎提交难以采集的网站 因工作原因 项目暂停  人人影视bot 完全对接人人影视全部无删减资源莫烦Python 中文AI教学飞桨 官方模型库 包含多种学术前沿和工业场景验证的深度学习模型 轻量级人脸检测模型 百度云 百度网盘Python客户端 Python进阶 Intermediate Python 中文版 提供同花顺客户端 国金 华泰客户端 雪球的基金 股票自动程序化交易以及自动打新 支持跟踪 joinquant ricequant 模拟交易 和 实盘雪球组合 量化交易组件QUANTAXIS 支持任务调度 分布式部署的 股票 期货 期权 港股 虚拟货币 数据 回测 模拟 交易 可视化 多账户 纯本地量化解决方案INFO SPIDER 是一个集众多数据源于一身的爬虫工具箱 旨在安全快捷的帮助用户拿回自己的数据 工具代码开源 流程透明 支持数据源包括GitHub QQ邮箱 网易邮箱 阿里邮箱 新浪邮箱 Hotmail邮箱 Outlook邮箱 京东 淘宝 支付宝 中国移动 中国联通 中国电信 知乎 哔哩哔哩 网易云音乐 QQ好友 QQ群 生成朋友圈相册 浏览器浏览历史 123 6 博客园 CSDN博客 开源中国博客 简书 中文BERT wwm系列模型 Python入门网络爬虫之精华版中文 iOS Mac 开发博客列表Python网页微信APIpkuseg多领域中文分词工具自己动手做聊天机器人教程基于搜狗微信搜索的微信公众号爬虫接口用深度学习对对联 v2ray xray多用户管理部署程序各种脚本 关于 虾米 xiami com 百度网盘 pan baidu com 115网盘 115 com 网易音乐 music 163 com 百度音乐 music baidu com 36 网盘 云盘 yunpan cn 视频解析 flvxz com bt torrent ↔ magnet ed2k 搜索 tumblr 图片下载 unzip查看被删的微信好友定投改变命运 让时间陪你慢慢变富 onregularinvesting com 机器学习实战 Python3 kNN 决策树 贝叶斯 逻辑回归 SVM 线性回归 树回归Statistical learning methods 统计学习方法 第2版 李航 笔记 代码 notebook 参考文献 Errata lihang stock 股票系统 使用python进行开发 基于深度学习的中文语音识别系统京东抢购助手 包含登录 查询商品库存 价格 添加 清空购物车 抢购商品 下单 查询订单等功能莫烦Python 中文AI教学机器学习算法python实现新浪微博爬虫 用python爬取新浪微博数据的算法以及通用生成对抗网络图像生成的理论与实践研究 青岛大学开源 Online Judge QQ群 49671 125 admin qduoj comWeRoBot 是一个微信公众号开发框架 基于Django的博客系统 中文近义词 聊天机器人 智能问答工具包开源财经数据接口库巡风是一款适用于企业内网的漏洞快速应急 巡航扫描系统  番号大全 解决电脑 手机看电视直播的苦恼 收集各种直播源 电视直播网站知识图谱构建 自动问答 基于kg的自动问答 以疾病为中心的一定规模医药领域知识图谱 并以该知识图谱完成自动问答与分析服务 出处本地电影刮削与整理一体化解决方案自动化运维平台 CMDB CD DevOps 资产管理 任务编排 持续交付 系统监控 运维管理 配置管理 wukong robot 是一个简单 灵活 优雅的中文语音对话机器人 智能音箱项目 还可能是首个支持脑机交互的开源智能音箱项目 获取斗鱼 虎牙 哔哩哔哩 抖音 快手等 55 个直播平台的真实流媒体地址 直播源 和弹幕 直播源可在 PotPlayer flv js 等播放器中播放 宝塔Linux面板 简单好用的服务器运维面板农业知识图谱 AgriKG 农业领域的信息检索 命名实体识别 关系抽取 智能问答 辅助决策CODO是一款为用户提供企业多混合云 一站式DevOps 自动化运维 完全开源的云管理平台 自动化运维平台Web Pentesting Fuzz 字典 一个就够了  计算机网络 自顶向下方法 原书第6版 编程作业 Wireshark实验文档的翻译和解答 中文古诗自动作诗机器人 屌炸天 基于tensorflow1 1 api 正在积极维护升级中 快star 保持更新 PyQt Examples PyQt各种测试和例子 PyQt4 PyQt5海量中文预训练ALBERT模型汉字转拼音 pypinyin 数据结构与算法 leetcode lintcode题解  Pytorch模型训练实用教程 中配套代码实时获取新浪 腾讯 的免费股票行情 集思路的分级基金行情Python爬虫 Flask网站 免费ShadowSocks账号 ssr订阅 json 订阅实战 多种网站 电商数据爬虫 包含 淘宝商品 微信公众号 大众点评 企查查 招聘网站 闲鱼 阿里任务 博客园 微博 百度贴吧 豆瓣电影 包图网 全景网 豆瓣音乐 某省药监局 搜狐新闻 机器学习文本采集 fofa资产采集 汽车之家 国家统计局 百度关键词收录数 蜘蛛泛目录 今日头条 豆瓣影评 携程 小米应用商店 安居客 途家民宿 ️ ️ ️ 微信爬虫展示项目 SQL 审核查询平台团子翻译器 个人兴趣制作的一款基于OCR技术的翻译器自动化运维平台 代码及应用部署CI CD 资产管理CMDB 计划任务管理平台 SQL审核 回滚 任务调度 站内WIKISource Code Security Audit 源代码安全审计 Exphub 漏洞利用脚本库 包括的漏洞利用脚本 最新添加我的自学笔记 终身更新 当前专注System基础 MLSys 使用机器学习算法完成对123 6验证码的自动识别Python 开源项目之 自学编程之路 保姆级教程 AI实验室 宝藏视频 数据结构 学习指南 机器学习实战 深度学习实战 网络爬虫 大厂面经 程序人生 资源分享 中文文本分类基于pytorch 开箱即用 根据网易云音乐的歌单 下载flac无损音乐到本地腾讯优图高精度双分支人脸检测器文本纠错等模型实现 开箱即用 3 天掌握量化交易 持续更新 中文分词 词性标注 命名实体识别 依存句法分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁 自然语言处理中文公开聊天语料库豆瓣读书的爬虫总结梳理自然语言处理工程师 NLP 需要积累的各方面知识 包括面试题 各种基础知识 工程能力等等 提升核心竞争力中文自然语言处理数据集 平时做做实验的材料 欢迎补充提交合并 一个可以自己进行训练的中文聊天机器人 根据自己的语料训练出自己想要的聊天机器人 可以用于智能客服 在线问答 智能聊天等场景 目前包含seq2seq seqGAN版本 tf2 版本 pytorch版本 股票量化框架 支持行情获取以及交易微博爬虫 持续维护  Bilibili 用户爬虫 deepin源移植 Debian Ubuntu上最快的QQ 微信安装方式 新闻网页正文通用抽取器 Beta 版  flag on post 自动更新域名解析到本机IP 支持dnspod 阿里DNS CloudFlare 华为云 DNSCOM 本项目针对字符型图片验证码 使用tensorflow实现卷积神经网络 进行验证码识别 owllook 小说搜索引擎中文语言理解测评基准python中文库 python人工智能大数据自动化接口测试开发 书籍下载及python库汇总china testing github io 2 19新型冠状病毒疫情时间序列数据仓库Python 黑魔法手册单阶段通用目标检测器一个拍照做题程序 输入一张包含数学计算题的图片 输出识别出的数学计算式以及计算结果 video download B站视频下载中文命名实体识别 TensorFlow Python 中文数据结构和算法教程 验证码识别 训练Python爬虫实战 模拟登陆各大网站 包含但不限于 滑块验证 拼多多 美团 百度 bilibili 大众点评 淘宝 如果喜欢请start ️学无止下载器 慕课下载器 Mooc下载 慕课网下载 中国大学下载 爱课程下载 网易云课堂下载 学堂在线下载 超星学习通下载 支持视频 课件同时下载一个高级web目录 文件扫描工具 功能将会强于DirBuster Dirsearch cansina 御剑 搜索所有中文NLP数据集 附常用英文NLP数据集中文实体识别与关系提取2 19新型冠状病毒疫情实时爬虫及github release archive以及项目文件的加速项目安卓应用安全学习抓取大量免费代理 ip 提取有效 ip 使用RoBERTa中文预训练模型 RoBERTa for Chinese 用于训练中英文对话系统的语料库敏感词过滤的几种实现 某1w词敏感词库简单易用的Python爬虫框架 QQ交流群 59751 56 使用Bert ERNIE 进行中文文本分类为 CSAPP 视频课程提供字幕 翻译 PPT Lab PyTorch 官方中文教程包含 6 分钟快速入门教程 强化教程 计算机视觉 自然语言处理 生成对抗网络 强化学习 欢迎 Star Fork 兜哥出品 &lt;一本开源的NLP入门书籍 图像翻译 条件GAN AI绘画用Resnet1 1 GPT搭建一个玩王者荣耀的AI各种漏洞poc Exp的收集或编写斗地主AIVulmap 是一款 web 漏洞扫描和验证工具 可对 webapps 进行漏洞扫描 并且具备漏洞验证功能提供超過 5 個金融資料 台股為主 每天更新 finmind github io 数据接口 百度 谷歌 头条 微博指数 宏观数据 利率数据 货币汇率 千里马 独角兽公司 新闻联播文字稿 影视票房数据 高校名单 疫情数据 PyOne 一款给力的onedrive文件管理 分享程序 使用开发的用于迅速搭建并使用 WebHook 进行自动化部署和运维 支持 Github GitLab Gogs GitOsc 跟我一起写Makefile重制版 python自动化运维 技术与最佳实践 书中示例及案例源码自然语言处理实验 sougou数据集 TF IDF 文本分类 聚类 词向量 情感识别 关系抽取等微信公众平台 Python 开发包 DEPRECATED Weblogic一键漏洞检测工具 V1 5 更新时间 2 2 73 完备优雅的微信公众号接口 原生支持同步 协程使用 本程序旨在为安全应急响应人员对Linux主机排查时提供便利 实现主机侧Checklist的自动全面化检测 根据检测结果自动数据聚合 进行黑客攻击路径溯源 PyCharm 中文指南 安装 破解 效率 技巧类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入GPT2 for Chinese chitchat 用于中文闲聊的GPT2模型 实现了DialoGPT的MMI思想 中华人民共和国国家标准 GB T 226 行政区划代码基于python的量化交易平台中文语音识别基于 OneBot 标准的 Python 异步 QQ 机器人框架Real World Masked Face Dataset 口罩人脸数据集 Vulfocus 是一个漏洞集成平台 将漏洞环境 docker 镜像 放入即可使用 开箱即用 谷歌 百度 必应图片下载 基于方面的情感分析 使用PyTorch实现  深度学习与计算机视觉 配套代码ART环境下自动化脱壳方案利用网络上公开的数据构建一个小型的证券知识图谱 知识库中文资源精选 官方网站 安装教程 入门教程 视频教程 实战项目 学习路径 QQ群 167122861 公众号 磐创AI 微信群二维码 www tensorflownews com Pre Trained Chinese XLNet 中文XLNet预训练模型 新浪微博Python SDK有关burpsuite的插件 非商店 文章以及使用技巧的收集 此项目不再提供burpsuite破解文件 如需要请在博客mrxn net下载Python3编写的CMS漏洞检测框架基于django的工作流引擎 工单 ️ 哔哩云 不支持任意文件的全速上传与下载微信SDK 包括微信支付 微信公众号 微信登陆 微信消息处理等中文自然语言理解堡垒机 云桌面自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放 网页版rz sz上传下载 动态口令 django转换中国知网 CAJ 格式文献为 PDF 佛系转换 成功与否 皆是玄学 HanLP作者的新书 自然语言处理入门 详细笔记 业界良心之作 书中不是枯燥无味的公式罗列 而是用白话阐述的通俗易懂的算法模型 从基本概念出发 逐步介绍中文分词 词性标注 命名实体识别 信息抽取 文本聚类 文本分类 句法分析这几个热门问题的算法原理与工程实现  Python3 网络爬虫实战 部分含详细教程 猫眼 腾讯视频 豆瓣 研招网 微博 笔趣阁小说 百度热点 B站 CSDN 网易云阅读 阿里文学 百度股票 今日头条 微信公众号 网易云音乐 拉勾 有道 unsplash 实习僧 汽车之家 英雄联盟盒子 大众点评 链家 LPL赛程 台风 梦幻西游 阴阳师藏宝阁 天气 牛客网 百度文库 睡前故事 知乎 Wish微信公众号文章的爬虫 Python Web开发实战 书中源码一直可用的GoAgent 会定时扫描可用的google gae ip 提供可自动化获取ip运行的版本层剪枝 通道剪枝 知识蒸馏 中文命名实体识别 包括多种模型 HMM CRF BiLSTM BiLSTM CRF的具体实现  The Way to Go 中文译本 中文正式名 Go 入门指南 谢谢 Solutions to LeetCode by Go 1 % test coverage runtime beats 1 % LeetCode 题解一款轻量级 高性能 功能强大的内网穿透代理服务器 支持tcp udp socks5 http等几乎所有流量转发 可用来访问内网网站 本地支付接口调试 ssh访问 远程桌面 内网dns解析 内网socks5代理等等 并带有功能强大的web管理端 Go语言高级编程 开源图书 涵盖CGO Go汇编语言 RPC实现 Protobuf插件实现 Web框架实现 分布式系统等高阶主题 完稿 是一个跨平台的强加密无特征的代理软件 零配置 算法模板 最科学的刷题方式 最快速的刷题路径 你值得拥有 百度网盘不限速客户端 golang qt5 跨平台图形界面是golang实现的高性能http https websocket tcp socks5代理服务器 支持内网穿透 链式代理 通讯加密 夜读 通过 bilibili 在线直播的方式分享 Go 相关的技术话题 每天大家在微信 telegram Slack 上及时沟通交流编程技术话题  支持多家云存储的云盘系统 这里是写博客的地方 Halfrost Field 冰霜之地Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由基于gin vue搭建的后台管理系统框架 集成jwt鉴权 权限管理 动态路由 分页封装 多点登录拦截 资源权限 上传下载 代码生成器 表单生成器 通用工作流等基础功能 五分钟一套CURD前后端代码 目VUE3版本正在重构 欢迎issue和pr 分布式爬虫管理平台 支持任何语言和框架Golang标准库 对于程序员而言 标准库与语言本身同样重要 它好比一个百宝箱 能为各种常见的任务提供完美的解决方案 以示例驱动的方式讲解Golang的标准库 天用Go动手写 从零实现系列是一个高性能且低损耗的 goroutine 池 有 有 设计模式 Golang实现 研磨设计模式 读书笔记Golang实现的基于beego框架的接口在线文档管理系统高性能开源RTSP流媒体服务器 基于go语言研发 维护和优化 RTSP推模式转发 RTSP拉模式转发 是一个高性能 轻量级 非阻塞的事件驱动 Go 网络框架 基于Gin Vue Element UI的前后端分离权限管理系统脚手架 包含了 多租户的支持 基础用户管理功能 jwt鉴权 代码生成器 RBAC资源控制 表单构建 定时任务等 3分钟构建自己的中后台项目 文档蓝鲸智云配置平台 BlueKing CMDB 今日热榜 一个获取各大热门网站热门头条的聚合网站 使用Go语言编写 多协程异步快速抓取信息 预览 mo fish一条命令离线安装高可用kubernetes 3min装完 7 M 1 年证书 生产环境稳如老狗阿里巴巴开源的一款简单易用 功能强大的混沌实验注入工具  Go语言四十二章经 详细讲述Go语言规范与语法细节及开发中常见的误区 通过研读标准库等经典代码设计模式 启发读者深刻理解Go语言的核心思维 进入Go语言开发的更高阶段  ️一个轻巧的网络混淆代理 基于Golang轻量级TCP并发服务器框架定时任务管理系统KubeOperator 是一个开源的轻量级 Kubernetes 发行版 专注于帮助企业规划 部署和运营生产级别的 K8s 集群 本系统是集工单统计 任务钩子 权限管理 灵活配置流程与模版等等于一身的开源工单系统 当然也可以称之为工作流引擎 致力于减少跨部门之间的沟通 自动任务的执行 提升工作效率与工作质量 减少不必要的工作量与人为出错率 Go实现的Trojan代理 支持多路复用 路由功能 CDN中转 Shadowsocks混淆插件 多平台 无依赖 Go语法树入门 开启自制编程语言和编译器之旅 开源免费图书 Go语言进阶 掌握抽象语法树 Go语言AST 凹语言 一款可全平台运行的浏览器数据导出解密工具 Golang相关 审稿进度8 % Go语法 Go并发思想 Go与web开发 Go微服务设施等Jupiter是斗鱼开源的面向服务治理的Golang微服务框架Elasticsearch 可视化DashBoard 支持Es监控 实时搜索 Index template快捷替换修改 索引列表信息查看 SQL converts to DSL等  从问题切入 串连 Go 语言相关的所有知识 融会贯通 golang design go questionsWeChat SDK for Go 微信SDK 简单 易用 go fastdfs 是一个简单的分布式文件系统 私有云存储 具有无中心 高性能 高可靠 免维护等优点 支持断点续传 分块上传 小文件合并 自动同步 自动修复 Mastering GO 中文译本 玩转 GO 云原生且易用的应用管理平台 Go Web 基础 是一套针对 Google 出品的 Go 语言的视频语音教程 主要面向完成 Go 编程基础 教程后希望进一步了解有关 Go Web 开发的学习者 中文名 悟空 API 网关 是一个基于 Golang开发的微服务网关 能够实现高性能 HTTP API 转发 服务编排 多租户管理 API 访问权限控制等目的 拥有强大的自定义插件系统可以自行扩展 并且提供友好的图形化配置界面 能够快速帮助企业进行 API 服务治理 提高 API 服务的稳定性和安全性  集合多家 API 的新一代图床MIT课程 Distributed Systems 学习和翻译Go语言圣经中文版 只接收PR Issue请提交到golang china gopl zh trojan多用户管理部署程序 支持web页面管理BookStack 基于MinDoc 使用Beego开发的在线文档管理系统 功能类似Gitbook和看云 weixin wechat 微信公众平台 微信企业号 微信商户平台 微信支付 go golang sdk  蓝眼云盘 Eyeblue Cloud Storage 语言高性能编程 Go 语言陷阱 Gotchas Traps 使用 XMind 记录 Linux 操作系统 网络 C Golang 以及数据库的一些设计cqhttp的golang实现 轻量 原生跨平台 mqant是一款基于Golang语言的简洁 高效 高性能的分布式微服务框架基于react node js go开发的微商城 含微信小程序 MM Wiki 一个轻量级的企业知识分享与团队协同软件 可用于快速构建企业 Wiki 和团队知识分享平台 部署方便 使用简单 帮助团队构建一个信息共享 文档管理的协作环境 Go 语言中文网 Golang中文社区 Go语言学习园地 源码基于 Gin 进行模块化设计的 API 框架 封装了常用功能 使用简单 致力于进行快速的业务研发 比如 支持 cors 跨域 jwt 签名验证 zap 日志收集 panic 异常捕获 trace 链路追踪 prometheus 监控指标 swagger 文档生成 viper 配置文件解析 gorm 数据库组件 gormgen 代码生成工具 graphql 查询语言 errno 统一定义错误码 gRPC 的使用 等等 syncd是一款开源的代码部署工具 它具有简单 高效 易用等特点 可以提高团队的工作效率 一款由 YSRC 开源的主机入侵检测系统golang面试题集合这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows GUI 软件工具 一款内网综合扫描工具 方便一键自动化 全方位漏扫扫描 是一个用于在两个redis之间同步数据的工具 满足用户非常灵活的同步 迁移需求 Overlord是哔哩哔哩基于Go语言编写的memcache和redis cluster的代理及集群管理功能 致力于提供自动化高可用的缓存服务解决方案 Stack RPC 中文示例 教程 资料 源码解读ICMP流量伪装转发工具Freedom是一个基于六边形架构的框架 可以支撑充血的领域模型范式  Go2编程指南 开源图书 重点讲解Go2新特性 以及Go1教程中较少涉及的特性语言高性能分词golang写的IM服务器 服务组件形式  结巴 中文分词的Golang版本xorm是一个简单而强大的Go语言ORM库 通过它可以使数据库操作非常简便 本库是基于原版xorm的定制增强版本 为xorm提供类似ibatis的配置文件及动态SQL支持 支持AcitveRecord操作一个 Go 语言实现的快速 稳定 内嵌的 k v 数据库 高性能表格数据导出器基于Golang的开源社区系统 版本网易云音乐ncm文件格式转换 go 实现的压测工具 ab locust Jmeter压测工具介绍 单台机器1 w连接压测实战 抓包截取项目中的数据库请求并解析成相应的语句  Go专家编程 Go语言快速入门 轻松进阶 &lt;&lt;自己动手写docker 源码Go 每日一库kunpeng是一个Golang编写的开源POC框架 库 以动态链接库的形式提供各种语言调用 通过此项目可快速开发漏洞检测类的系统 vue js element框架 golang beego框架 开发的运维发布系统 支持git jenkins版本发布 go ssh BT两种文件传输方式选择 支持部署前准备任务和部署后任务钩子函数 Go 从入门到实战 学习笔记 从零开始学 Go Gin 框架 基本语法包括 26 个Demo Gin 框架包括 Gin 自定义路由配置 Gin 使用 Logrus 进行日志记录 Gin 数据绑定和验证 Gin 自定义错误处理 Go gRPC Hello World 持续更新中 Go 学习之路 Go 开发者博客 Go 微信公众号 Go 学习资料 文档 书籍 视频 微信 WeChat 支付宝 AliPay 的Go版本SDK 极简 易用的聚合支付SDK Go by Example 通过例子学 GolangPPGo Job是一款可视化的 多人多权限的 一任务多机执行的定时任务管理系统 采用golang开发 安装方便 资源消耗少 支持大并发 可同时管理多台服务器上的定时任务 Golang实现的IP代理池是一款用Go语言开发的web应用框架 API特性类似于Tornado并且拥有比Tornado更好的性能  自己动手写Java虚拟机 随书源代码支付宝 AliPay SDK for Go 集成简单 功能完善 持续更新 支持公钥证书和普通公钥进行签名和验签  ARCHIVED Geph 迷霧通帮助你将本地端口暴露在外网 支持TCP UDP 当然也支持HTTP 深入Go并发编程研讨课无状态子域名爆破工具手机号码归属地信息库 手机号归属地查询 phone dat 最后更新 2 21年 6月 golang基于websocket单台机器支持百万连接分布式聊天 IM 系统基于mongodb oplog的集群复制工具 可以满足迁移和同步的需求 进一步实现灾备和多活功能 Gin Gorm开发Golang API快速开发脚手架简单可信赖的任务管理工具Go语言实例教程从入门到进阶 包括基础库使用 设计模式 面试易错点 工具类 对接第三方等授权框架简体中文翻译 自动抓取tg频道 订阅地址 公开互联网上的ss ssr vmess trojan节点信息 聚合去重后提供节点列表轻量级 go 业务框架  哪吒监控 一站式轻监控轻运维系统 支持系统状态 TCP Ping 监控报警 命令批量执行和计划任务 Go 语言官方教程中文版工程师知识管理系统 基于golang go语言 beego框架 每个行业都有自己的知识管理系统 engineercms旨在为土木工程师们打造一款适用的基于web的知识管理系统 它既可以用于管理个人的项目资料 也可以用于管理项目团队资料 它既可以运行于个人电脑 也可以放到服务器上 支持提取码分享文件 onlyoffice实时文档协作 直接在线编辑dwg文件 office文档 在线利用mindoc创作你的书籍 阅览PDF文件 通用的业务流程设置 手机端配套小程序 微信搜索“珠三角设代”或“青少儿书画”即可呼出小程序 边界打点后的自动化渗透工具一个集审核 执行 备份及生成回滚语句于一身的MySQL运维工具汉字转拼音 Go资源精选中文版 含中文图书大全 语言实现的 Redis 服务器和分布式集群 超全golang面试题合集 golang学习指南 golang知识图谱 入门成长路线 一份涵盖大部分golang程序员所需要掌握的核心知识 常用第三方库 mysql mq es redis等 机器学习库 算法库 游戏库 开源框架 自然语言处理nlp库 网络库 视频库 微服务框架 视频教程 音频音乐库 图形图片库 物联网库 地理位置信息 嵌入式脚本库 编译器库 数据库 金融库 电子邮件库 电子书籍 分词 数据结构 设计模式 去html tag标签等 go学习 go面试go语言扩展包 收集一些常用的操作函数 辅助更快的完成开发工作 并减少重复代码百灵快传 基于Go语言的高性能 手机电脑超大文件传输神器 局域网共享文件服务器 LAN large file transfer tool 一个基于云存储的网盘系统 用于自建私人网盘或企业网盘 go分布式服务器 基于内存mmo个人博客微信小程序服务端 SDK for Golang 控制台颜色渲染工具库 支持16色 256色 RGB色彩渲染输出 使用类似于 Print Sprintf 兼容并支持 Windows 环境的色彩渲染基于 IoC 的 Go 后端一站式开发框架 v2ray web manager 是一个v2ray的面板 也是一个集群的解决方案 同时增加了流量控制 账号管理 限速等功能 key admin panel web cluster 集群 proxyServerScan一款使用Golang开发的高并发网络扫描 服务探测工具 是http client领域的瑞士军刀 小巧 强大 犀利 具体用法可看文档 如使用迷惑或者API用得不爽都可提issuesTcpRoute TCP 层的路由器 对于 TCP 连接自动从多个线路 电信 联通 移动 多个域名解析结果中选择最优线路 Bifrost 面向生产环境的 MySQL 同步到Redis MongoDB ClickHouse MySQL等服务的异构中间件应用网关 提供快速 安全的应用交付 身份认证 WAF CC HTTPS以及ACME自动证书 A telegram bot for rss reader 一个支持应用内阅读的 Telegram RSS Bot RESTful API 文档生成工具 支持和 Ruby 等大部分语言 基于gin gorm开发的个人博客项目基于Go语言的国密SM2 SM3 SM4算法库 Golang 设计模式一个阿里云盘列表程序 一款小巧的基于Go构建的开发框架 可以快速构建API服务或者Web网站进行业务开发 遵循SOLID设计原则并发编程实战 第2版 Go 学习 Go 进阶 Go 实用工具类 Go kit Go Micro 微服务实践 Go 推送基于DDD的o2o的业务模型及基础 使用Golang gRPC Thrift实现Sharingan 写轮眼 是一个基于golang的流量录制回放工具 适合项目重构 回归测试等 百度云网盘爬虫基于beego的进销存系统 TeaWeb 可视化的Web代理服务 DEMO teaos cn  白帽子安全开发实战 配套代码抖音推荐 搜索页视频列表视频爬虫方案 基于app 虚拟机或真机 相关技术 golang adb一款甲方资产巡航扫描系统 系统定位是发现资产 进行端口爆破 帮助企业更快发现弱口令问题 主要功能包括 资产探测 端口爆破 定时任务 管理后台识别 报表展示提供微信终端版本 微信命令行版本聊天功能 微信机器人 ️ 互联网最全大厂技术分享PPT 持续更新中 各大技术交流会 活动资料汇总 如 QCon 全球运维技术大会 GDG 全球技术领导力峰会 大前端大会 架构师峰会 敏捷开发DevOps OpenResty Elastic 欢迎 PR Issues日本麻将助手 牌效 防守 记牌 支持雀魂 天凤 开源客服系统GO语言开发GO FLY 免费客服系统一个查询IP地理信息和CDN服务提供商的离线终端工具 是一个用于系统重构 系统迁移和系统分析的瑞士军刀 它可以分析代码中的测试坏味道 模块化分析 行数统计 分析调用与依赖 Git 分析以及自动化重构等 一个直播录制工具Mastering Go 第二版中文版来袭 渗透测试情报收集工具分布式定时任务调度平台高度模块化 遵循 KISS原则的区块链开发框架golang版本的hangout 希望能省些内存 使用了自己写的Kafka lib 虚 不过我们在生产环境已经使用近1年 kafka 版本从 9 1到2 都在使用 目前情况稳定 吞吐量在每天2 亿条以上 Go 语言 Web 应用开发系列教程 从新手到双手残废iris 框架的后台api项目简单好用的DDNS 自动更新域名解析到公网IP 支持阿里云 腾讯云dnspod Cloudflare 华为云  自己动手实现Lua 随书源代码php直播go直播 短视频 直播带货 仿比心 猎游 tt语音聊天 美女约玩 陪玩系统源码开黑 约玩源码 社区开源 云原生的多云和混合云融合平台 Jiajun的编程随想Golang语言社区 腾讯课堂 网易云课堂 字节教育课程PPT及代码基于GF Go Frame 的后台管理系统带你了解一下Golang的市场行情mysql表结构自动同步工具 目前只支持字段 索引的同步 分区等高级功能暂不支持 基于Kubernetes的PaaS平台流媒体NetFlix解锁检测脚本稳定分支2 9 X 版本已更新 由 Golang语言游戏服务器 维护 全球服游戏服务器及区域服框架 目前协议支持websocket KCP TCP及RPC 采用状态同步 帧同步内测 愿景 打造MMO多人竞技游戏框架 功能持续更新中 基于 Golang 类似知乎的私有部署问答应用 包含问答 评论 点赞 管理后台等功能全新的开源漏洞测试框架 实现poc在线编辑 运行 批量测试 使用文档 XAPI MANAGER 专业实用的开源接口管理平台 为程序开发者提供一个灵活 方便 快捷的API管理工具 让API管理变的更加清晰 明朗 如果你觉得xApi对你有用的话 别忘了给我们点个赞哦 qq协议的golang实现 移植于miraigo版本极简工作流引擎全平台Go开源内网渗透扫描器框架 Windows Linux Mac内网渗透 使用它可轻松一键批量探测C段 B段 A段存活主机 高危漏洞检测MS17 1 SmbGhost 远程执行SSH Winrm 密码爆破端口扫描服务识别PortScan指纹识别多网卡主机 端口扫描服务识别PortScan iikira BaiduPCS Go原版基础上集成了分享链接 秒传链接转存功能 e签宝安全团队积累十几年的安全经验 都将对外逐步开放 首开的Ehoney欺骗防御系统 该系统是基于云原生的欺骗防御系统 也是业界唯一开源的对标商业系统的产品 欺骗防御系统通过部署高交互高仿真蜜罐及流量代理转发 再结合自研密签及诱饵 将攻击者攻击引导到蜜罐中达到扰乱引导以及延迟攻击的效果 可以很大程度上保护业务的安全 护网必备良药漂亮的Go语言通用后台管理框架 包含计划任务 MySQL管理 Redis管理 FTP管理 SSH管理 服务器管理 Caddy配置 云存储管理等功能  微信支付 WeChat Pay SDK for Golang用于监控系统的日志采集agent 可无缝对接open falcon阿里巴巴mysql数据库binlog的增量订阅 消费组件 Canal 的 go 客户端 github com alibaba canal 用于比较2个redis数据是否一致 支持单节点 主从 集群版 以及多种proxy 支持同构以及异构对比 redis的版本支持2 x 5 x 使用go micro微服务实现的在线电影院订票系统后端一站式微服务框架 提供API web websocket RPC 任务调度 消息消费服务器红蓝对抗跨平台远控工具Interchain protocol 跨链协议简单易用 足够轻量 性能好的 Golang 库一个go echo vue 开发的快速 简洁 美观 前后端分离的个人博客系统 blog 也可方便二次开发为CMS 内容管理系统 和各种企业门户网站 正在更新权限管理 hauth项目 不是一个前端or后台框架 而是一个集成权限管理 菜单资源管理 域管理 角色管理 用户管理 组织架构管理 操作日志管理等等的快速开发平台． hauth是一个基础产品 在这个基础产品上 根据业务需求 快速的开发应用服务．账号 admin 密码 123456通用的数据验证与过滤库 使用简单 内置大部分常用验证 过滤器 支持自定义验证器 自定义消息 字段翻译 CTF AWD Attack with Defense 线下赛平台 AWD platform 欢迎 Star 蓝鲸智云容器管理平台 BlueKing Container Service 程序员如何优雅的挣零花钱 2 版 升级为小书了 一个 PHP 微信 SDKAV 电影管理系统 avmoo javbus javlibrary 爬虫 线上 AV 影片图书馆 AV 磁力链接数据库ThinkPHP Framework 十年匠心的高性能PHP框架 最全的前端资源汇总仓库 包括前端学习 开发资源 求职面试等 多语言多货币多入口的开源电商 B2C 商城 支持移动端vue app html5 微信小程序微店 微信小程序商城等可能是我用过的最优雅的 Alipay 和 WeChat 的支付 SDK 扩展包了 基于词库的中文转拼音优质解决方案 我用爬虫一天时间“偷了”知乎一百万用户 只为证明PHP是世界上最好的语言 所使用的程序微信 SDK for Laravel 基于 overtrue wechat开源在线教育点播系统  一款满足你的多种发送需求的短信发送组件 基于 Laravel 的后台系统构建工具 Laravel Admin 使用很少的代码快速构建一个功能完善的高颜值后台系统 内置丰富的后台常用组件 开箱即用 让开发者告别冗杂的HTML代码一个想帮你总结所有类型的上传漏洞的靶场优雅的渐进式PHP采集框架 Laravel 电商实战教程的项目代码Payment是php版本的支付聚合第三方sdk 集成了微信支付 支付宝支付 招商一网通支付 提供统一的调用接口 方便快速接入各种支付 查询 退款 转账能力 服务端接入支付功能 方便 快捷 SPF Swoole PHP Framework 世界第一款基于Swoole扩展的PHP框架 开发者是Swoole创始人 A Wonderful WordPress Theme 樱花庄的白猫博客主题图床 此项目已弃用 基于 ThinkPHP 基础开发平台 登录账号密码都是 admin PanDownload网页复刻版一个开源的网址导航网站项目 您可以拿来制作自己的网址导航 使用PHP Swoole实现的网页即时聊天工具 独角数卡 发卡 开源式站长自动化售货解决方案 高效 稳定 快速 卡密商城系统 高效安全的在线卡密商城 ️命令行模式开发框架ShopXO免费开源商城系统 国内领先企业级B2C免费开源电商系统 包含PC h5 微信小程序 支付宝小程序 百度小程序 头条 抖音小程序 QQ小程序 APP 多商户 遵循MIT开源协议发布 基于 ThinkPHP5 1框架研发Wizard是一款开源的文档管理工具 支持Markdown Swagger Table类型的文档 Swoole MySQL Proxy 一个基于 MySQL 协议 Swoole 开发的MySQL数据库连接池 学习资源整合Freenom域名自动续期一个好玩的Web安全 漏洞测试平台一个基于Yii2高级框架的快速开发应用引擎蓝天采集器是一款免费的数据采集发布爬虫软件 采用php mysql开发 可部署在云服务器 几乎能采集所有类型的网页 无缝对接各类CMS建站程序 免登录实时发布数据 全自动无需人工干预 是网页大数据采集软件中完全跨平台的云端爬虫系统免费开源的中文搜索引擎 采用 C C 编写 基于 xapian 和 scws 提供 PHP 的开发接口和丰富文档WDScanner平台目前实现了如下功能 分布式web漏洞扫描 客户管理 漏洞定期扫描 子域名枚举 端口扫描 网站爬虫 暗链检测 坏链检测 网站指纹搜集 专项漏洞检测 代理搜集及部署等功能  ️兰空图床图标工场 移动应用图标生成工具 一键生成所有尺寸的应用图标和启动图 Argon 一个轻盈 简洁的 WordPress 主题Typecho Fans插件作品目录PHP代码审计分段讲解一个结构清晰的 易于维护的 现代的PHP Markdown解析器百度贴吧云签到 在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到 配合插件使用还可实现云灌水 点赞 封禁 删帖 审查等功能 注意 Gitee 原Git osc 仓库将不再维护 目前唯一指定的仓库为 Github 本项目没有官方交流群 如需交流可以直接使用Github的Discussions 没有商业版本 目前贴吧云签到由社区共同维护 不会停止更新 PR 通常在一天内处理 微信调试 API调试和AJAX的调试的工具 能将日志通过WebSocket输出到Chrome浏览器的console中 結巴 中文分詞 做最好的 PHP 中文分詞 中文斷詞組件EleTeam开源项目 电商全套解决方案之PHP版 Shop for PHP Yii2 一个类似京东 天猫 淘宝的商城 有对应的APP支持 由EleTeam团队维护 RhaPHP是微信第三方管理平台 微信公众号管理系统 支持多公众号管理 CRM会员管理 小程序开发 APP接口开发 几乎集合微信功能 简洁 快速上手 快速开发微信各种各样应用 简洁 好用 快速 项目开发快几倍 群 656868 一刻社区后端 API 源码 新 微信服务号 微信小程序 微信支付 支付宝支付苹果cms v1 maccms v1 麦克cms 开源cms 内容管理系统 视频分享程序 分集剧情程序 网址导航程序 文章程序 漫画程序 图片程序一个PHP文件搞定支付宝支付系列 包括电脑网站支付 手机网站支付 现金红包 消费红包 扫码支付 JSAPI支付 单笔转账到支付宝账户 交易结算 分账 分润 网页授权获取用户信息等restful api风格接口 APP接口 APP接口权限 oauth2 接口版本管理 接口鉴权基于企业微信的开源SCRM应用开发框架 引擎 也是一套通用的企业私域流量管理系统 API接口大全不断更新中 欢迎Fork和Star 1 一言 古诗句版 api 2 必应每日一图api 3 在线ip查询 4 m3u8视频在线解析api 5 随机生成二次元图片api 6 快递查询api 支持国内百家快递 7 flv视频在线解析api 8 抖音视频无水印解析api 9 一句话随机图片api 1 QQ用户信息获取api 11 哔哩哔哩封面图获取api 12 千图网58pic无水印解析下载api 13 喜马拉雅主播FM数据采集api 14 网易云音乐api 15 CCTV央视网视频解析api 16 微信运动刷步数api 17 皮皮搞笑 基于swoole的定时器程序 支持秒级处理群 656868 ️ Saber PHP异步协程HTTP客户端微信支付单文件版 一个PHP文件搞定微信支付系列 包括原生支付 扫码支付 H5支付 公众号支付 现金红包 企业付款到零钱等 新增V3版 一个还不错的图床工具 支持Mac Win Linux服务器 支持压缩后上传 添加图片或文字水印 多文件同时上传 同时上传到多个云 右击任意文件上传 快捷键上传剪贴板截图 Web版上传 支持作为Mweb Typora发布图片接口 作为PicGo ShareX uPic等的自定义图床 支持在服务器上部署作为图床接口 支持上传任意格式文件 可能是我用过的最优雅的 Alipay 和 WeChat 的 laravel 支付扩展包了上传大文件的Laravel扩展包开发内功修炼Laravel核心代码学习南京邮电大学开源 Online Judge QQ群 6681 8264 免费IP地址数据库 已支持IPV4 IPV6 结构化输出为国家 省 市 县 运营商 中文数据库 方便实用 laravel5 5和vue js结合的前后端分离项目模板 后端使用了laravel的LTS版本 5 5 前端使用了流行的vue element template项目 作为程序的起点 可以直接以此为基础来进行业务扩展 模板内容包括基础的用户管理和权限管理 日志管理 集成第三方登录 整合laravel echo server 实现了websocket 做到了消息的实时推送 并在此基础上 实现了聊天室和客服功能 权限管理包括后端Token认证和前端vue js的动态权限 解决了前后端完整分离的情况下 vue js的认证与权限相关的痛点 已在本人的多个项目中集成使用  Web安全之机器学习入门 网易云音乐升级APIPHP 集成支付 SDK 集成了支付宝 微信支付的支付接口和其它相关接口的操作 支持 php fpm 和 Swoole 所有框架通用 宇润PHP全家桶技术支持群 17916227MDClub 社区系统后端代码imi 是基于 Swoole 的 PHP 协程开发框架 它支持 Http2 WebSocket TCP UDP MQTT 等主流协议的服务开发 特别适合互联网微服务 即时通讯聊天im 物联网等场景 QQ群 17916227WordPress 版 WebStack 导航主题 nav iowen cnLive2D 看板娘插件 www fghrsh net post 123 html 上使用的后端 API简单搜索 一个简单的前端界面 用惯了各种导航首页 满屏幕尽是各种不厌其烦的广告和资讯 尝试自己写个自己的主页 国内各大CTF赛题及writeup整理收集自网络各处的 webshell 样本 用于测试 webshell 扫描器检测率  PHP微信SDK 微信平台 微信支付 码小六 GitHub 代码泄露监控系统PHP表单生成器 快速生成现代化的form表单 支持前后端分离 内置复选框 单选框 输入框 下拉选择框 省市区三级联动 时间选择 日期选择 颜色选择 文件 图片上传等17种常用组件 悟空CRM 基于TP5 vue ElementUI的前后端分离CRM系统V免签PHP版 完全开源免费的个人免签约解决方案Composer 全量镜像发布于2 17年3月 曾不间断运行2年多 这个开源有助于理解 Composer 镜像的工作原理一个多彩 轻松上手 体验完善 具有强大自定义功能的WordPress主题 基于Sakura主题全球免费代理IP库 高可用IP 精心筛选优质IP 2s必达LaraCMS 是在学习 laravel web 开发实战进阶 实战构架 API 服务器 过程中产生的一个业余作品 试图通过简单的方式 快速构建一套基本的企业站同时保留很灵活的扩展能力和优雅的代码方式 当然这些都得益Laravel的优秀设计 同时LaraCMS 也是一个学习Laravel 不错的参考示例  已停止维护 HookPHP基于C扩展搭建内置AI编程的架构系统 支持微服务部署 热插拔业务组件 集成业务模型 权限模型 UI组件库 多模板 多平台 多域名 多终端 多语言 含常驻内存 前后分离 API平台 LUA QQ群 67911638 中华人民共和国居民身份证 中华人民共和国港澳居民居住证以及中华人民共和国台湾居民居住证号码验证工具 PHP 版 最简单的91porn爬虫php版本Fend 是一款短小精悍 可在 FPM Swoole 服务容器平滑切换的高性能PHP框架 no evil 实现过滤敏感词汇 基于确定有穷自动机 DFA 算法 支持composer安装扩展Z BlogPHP博客程序IYUU自动辅种工具 目前能对国内大部分的PT站点自动辅种 支持下载器集群 支持多盘位 支持多下载目录 支持远程连接等 果酱小店 基于 Laravel swoole 小程序的开源电商系统 优雅与性能兼顾 這是一份純靠北工程師的專案 請好好愛護它 謝謝 EC ecjia 到家是一款可开展O2O业务的移动电商系统 它包含 移动端APP 采用原生模式开发 覆盖使用iOS 及Android系统的移 动终端 后台系统 针对平台日常运营维护的平台后台 针对入驻店铺管理的商家后台 独立并行 移动端H5 能够灵活部署于微信及其他APP 网页等 Material Design 指南的中文翻译 一个纯php分词 thinkphp5 1 layui 实现的带rbac的基础管理后台 方便快速开发法使用百度pcs上传脚本目前最全的前端开发面试题及答案樱花内网穿透网站源代码 2 2 重制版MeepoPS是Meepo PHP Socket的缩写 旨在提供稳定的Socket服务 可以轻松构建在线实时聊天 即时游戏 视频流媒体播放等 基础目录 聚合所有其他目录 包含文档和例子基于 Vue js 的简洁一般强大的 WordPress 单栏博客主题阿里云打造Laravel最好的OSS Storage扩展 网上在线商城 综合网上购物平台swoolefy是一个基于swoole实现的轻量级 高性能 协程级 开放性的API应用服务框架基于redis实现高可用 易拓展 接入方便 生产环境稳定运行的延迟队列 一款基于WordPress开发的高颜值的自适应主题 支持白天与黑夜模式 无刷新加载等 阿里云 OSS 官方 SDK 的 Composer 封装 支持任何 PHP 项目 包括 Laravel Symfony TinyLara 等等 此插件将你的WordPress接入本土生态体系之中 使之更适合国内应用环境PHP的服务化框架 适用于Api Server Rpc Server 帮助原生PHP项目转向微服务化 出色的性能与支持高并发的协程相结合基于ThinkPHP V6 开发的面向API的后台管理系统  PHP Swoole 开发的在线同步点歌台 支持自由点歌 切歌 调整排序 删除指定音乐以及基础权限分级信呼 免费开源的办公OA系统 包括APP pc上客户端 REIM即时通信 服务端等 让每个企业单位都有自己的办公系统 来客电商 微信小程序商城 APP商城 公众号商城 PC商城系统 支付宝小程序商城 抖音小程序商城 百度小程序电商系统 前后端代码全部开源 注重界面美感与用户体验 打造独特电商系统生态圈哔哩哔哩 Bilibili B 站主站助手 直播助手 直播抽奖 挂机升级 贴心小棉袄脚本 Lv6 离你仅有一步之遥 PHP 版 Personal 一个运用php与swoole实现的统计监控系统短视频去水印 抖音 皮皮虾 火山 微视 微博 绿洲 最右 轻视频 快手 全民小视频 巴塞电影 陌陌 Before避风 开眼 Vue Vlog 小咖秀 皮皮搞笑 全民K歌 西瓜视频  中国农历 阴历 与阳历 公历 转换与查询工具AoiAWD 专为比赛设计 便携性好 低权限运行的EDR系统 项目管理系统后端接口ThinkPHP 队列支持Typecho Theme Aria 书写自己的篇章PHP 中文工具包 支持汉字转拼音 拼音分词 简繁互转 数字 金额大写 QQ群 17916227Yii2 community 请访问淘客5合一SDK 支持淘宝联盟 京东联盟 多多进宝 唯品会 苏宁基于 thinkphp 开发的的 blogMojito Admin 基于 Laravel Vue Element 构建的后台管理系统一个经典的XSS渗透管理平台一款基于 RageFrame2 的免费开源的基础销售功能的商城基于Laravel 5 4 的开发的博客系统 代号 myPersimmon证件照片排版在线生成器 在一张6寸的照片上排版多张证件照清华大学计算机学科推荐学术会议和期刊列表WordPress响应式免费主题 Art Blog唯品秀博客 weipxiu com 备用域名weipxiu cn 开源给小伙伴免费使用 如使用过程有任何问题 在线技术支持QQ 欢迎打扰 原创不易 如喜欢 请多多打赏 演示 EwoMail是基于Linux的企业邮箱服务器 集成了众多优秀稳定的组件 是一个快速部署 简单高效 多语言 安全稳定的邮件解决方案 笔记本新版简单强大的无数据库的图床2 版 演示地址  Bilibili B 站自动领瓜子 直播助手 直播挂机脚本 主站助手 PHP 版微信群二维码活码工具 生成微信群活码 随时可以切换二维码 短视频的PHP拓展包 集成各大短视频的去水印功能 抖音 快手 微视主流短视频 PHP去水印一个PHPer的升级之路酷瓜云课堂 在线教育 网课系统 网校系统 知识付费系统 不加密不阉割 1 %全功能开源 可免费商用 框架主要使用ThinkPHP6 layui 拥有完善的权限的管理模块以及敏捷的开发方式 让你开发起来更加的舒服 laravel5 5搭建的后台管理 和 api服务 的小程序商城基于ThinkPHP5 AdminLTE的后台管理系统魔改版本 为 OLAINDEX 添加多网盘挂载及一些小修复海豚PHP 基于ThinkPHP5 1 41LTS的快速开发框架挂载Teambition文件 可直链分享 支持网盘 需申请 和项目文件 无需邀请码 准确率99 9%的ip地址定位库laravel ant design vue 权限后台PHP 第三方登录授权 SDK 集成了QQ 微信 微博 Github等常用接口 支持 php fpm 和 Swoole 所有框架通用 QQ群 17916227抖音去水印PHP版接口一个分布式统计监控系统 包含PHP客户端 服务端整合多接口的IP查询工具 基于阿里云OSS的WordPress远程附件支持插件 后会有期 开箱即用的Laravel后台扩展 前后端分离 后端控制前端组件 无需编写vue即可创建一个的项目 丰富的表单 表格组件 强大的自定义组件功能 yii2 swoole 让yii2运行在swoole上胖鼠采集 WordPress优秀开源采集插件CatchAdmin是一款基于thinkphp6 和 element admin 开发的后台管理系统 基于 ServiceProvider 系统模块完全接耦 随时卸载安装模块 提供了完整的权限和数据权限等功能 大量内置的开发工具提升你的开发体验 官网地址 微信公众平台php版开发包微信小程序 校园小情书后台源码 好玩的表白墙 告白墙 功能全面的PHP命令行应用库 提供控制台参数解析 命令运行 颜色风格输出 用户信息交互 特殊格式信息显示基于 chinese poetry 数据整理的一份 mysql 格式数据帮助 thinkphp 5 开发者快速 轻松的构建Api hyperf admin 是基于 hyperf vue 的配置化后台开发工具 微信支付php 写的视频下载工具 现已支持 Youku Miaopai 腾讯 XVideos Pornhub 91porn 微博酷燃 bilibili 今日头条 芒果TVCorePress 主题 一款高性能 高颜值的WordPress主题快链电商 直播电商 分销商城 微信小程序商城 APP商城 公众号商城 PC商城系统 支付宝小程序商城 抖音小程序商城 百度小程序电商系统 前后端代码全部开源 Laravel vue开发 成熟商用项目 shop mall 商城 电商 利用 PHP cURL 转发 Disqus API 请求可能是最优雅 简易的淘宝客SDKUniAdmin是一套渐进式模块化开源后台 采用前后端分离技术 数据交互采用json格式 功能低耦合高内聚 核心模块支持系统设置 权限管理 用户管理 菜单管理 API管理等功能 后期上线模块商城将打造类似composer npm的开放式插件市场 同时我们将打造一套兼容性的API标准 从ThinkPHP5 1 Vue2开始 逐步吸引爱好者共同加入 以覆盖等多语言框架 PHP 多接口获取快递物流信息包LightCMS 是一个基于 Laravel 开发的轻量级 CMS 系统 也可以作为一个通用的后台管理框架使用单点登录系统快乐二级域名分发系统Typecho Theme Story 爱上你我的故事 一个轻量化的留言板 记事本 社交系统 博客 人类的本质是 咕咕咕？微信域名拦截检测 QQ域名拦截检测 t xzkxb com 查询有缓存 如需实时查询请自行部署 高性能分布式并发锁 行为限流Emlog是一款基于PHP和MySQL的功能强大的博客及CMS建站系统 追求快速 稳定 简单 舒适的建站体验Hyperf admin 基于Hyperf Element UI 通用管理后台企业仓库管理系统HisiPHP V2版是基于ThinkPHP5 1和Layui开发的后台框架 承诺永久免费开源 您可用于学习和商用 但须保留版权信息正常显示 如果HisiPHP对您有帮助 您可以点击右上角 Star 支持一下哦 谢谢 使用PHP开发的简约导航 书签管理系统 软擎是基于 Php 7 2 和 Swoole 4 4 的高性能 简单易用的开发框架 支持同时在 Swoole Server 和 php fpm 两种模式下运行 内置了服务 集成了大量成熟的组件 可以用于构建高性能的Web系统 API 中间件 基础服务等等 个人发卡源码 发卡系统 二次元发卡系统 二次元发卡源码 发卡程序 动漫发卡 PHP发卡源码聊天应用 php实现的dht爬虫搭建的webim客服系统 即时通讯一些实用的python脚本同城拼车微信小程序后端代码 一个响应式干净和简洁优雅的 Typecho 主题php仓库进销存深度学习5 问 以问答形式对常用的概率知识 线性代数 机器学习 深度学习 计算机视觉等热点问题进行阐述 以帮助自己及有需要的读者 全书分为18个章节 5 余万字 由于水平有限 书中不妥之处恳请广大读者批评指正 未完待续 如有意合作 联系scutjy2 15 163 com 版权所有 违权必究 Tan 2 18 6题解 记录自己的leetcode解题之路 最全中华古诗词数据库 唐宋两朝近一万四千古诗人 接近5 5万首唐诗加26万宋诗 两宋时期1564位词人 21 5 首词 uni app 是使用 Vue 语法开发小程序 H5 App的统一框架采用自身模块规范编写的前端 UI 框架 遵循原生 HTML CSS JS 的书写形式 极低门槛 拿来即用 我是依扬 木易杨 公众号 高级前端进阶 作者 每天搞定一道前端大厂面试题 祝大家天天进步 一年后会看到不一样的自己 YApi 是一个可本地部署的 打通前后端及QA的 可视化的接口管理平台小程序组件化开发框架网易云音乐 Node js API service基于 Vue js 的小程序开发框架 从底层支持 Vue js 语法和构建工具体系  ECMAScript 6入门 是一本开源的 JavaScript 语言教程 全面介绍 ECMAScript 6 新增的语法特性  谷粒 Chrome插件英雄榜 为优秀的Chrome插件写一本中文说明书 让Chrome插件英雄们造福人类公众号 加1 同步更新前端面试每日 3 1 以面试题来驱动学习 提倡每日学习与思考 每天进步一点 每天早上5点纯手工发布面试题 死磕自己 愉悦大家 4 道前端面试题全面覆盖小程序 软技能 本文原文由知名 Hacker Eric S Raymond 所撰寫 教你如何正確的提出技術問題並獲得你滿意的答案 千古前端图文教程 超详细的前端入门到进阶学习笔记 从零开始学前端 做一名精致优雅的前端工程师 公众号 千古壹号 作者  book Node js 包教不包会 by alsotang收集所有区块链 BlockChain 技术开发相关资料 包括Fabric和Ethereum开发资料轻量 可靠的小程序 UI 组件库微信小程序商城 微信小程序微店一个可以观看国内主流视频平台所有视频的客户端可伸缩布局方案基于 node js Mongodb 构建的后台系统 js 源码解析磁力链接聚合搜索中华人民共和国行政区划 省级 省份直辖市自治区 地级 城市 县级 区县 乡级 乡镇街道 村级 村委会居委会 中国省市区镇村二级三级四级五级联动地址数据 Web接口管理工具 开源免费 接口自动化 MOCK数据自动生成 自动化测试 企业级管理 阿里妈妈MUX团队出品 阿里巴巴都在用 1 公司的选择 RAP2已发布请移步至github com thx rap2 delosKuboard 是基于 Kubernetes 的微服务管理界面 同时提供 Kubernetes 免费中文教程 入门教程 最新版本的 Kubernetes v1 2 安装手册 k8s install 在线答疑 持续更新 ApacheCN 数据结构与算法译文集 chick 是使用 Node js 和 MongoDB 开发的社区系统一个非常适合IT团队的在线API文档 技术文档工具 Chinese sticker pack More joy 表情包的博物馆 Github最有毒的仓库 中国表情包大集合 聚欢乐 高颜值的第三方网易云播放器 支持 Windows macOS Linux vue2 vue router vuex 入门项目网易云音乐第三方 Flutter实战 电子书 一套代码运行多端 一端所见即多端所见 计算机速成课 Crash Course 字幕组 全4 集 2 18 5 1 精校完成 一个 react redux 的完整项目 和 个人总结中文独立博客列表CSS Inspiration 在这里找到写 CSS 的灵感 rich text 富文本编辑器 汉字拼音 hàn zì pīn yīn Chrome插件开发全攻略 配套完整Demo 欢迎clone体验微信调试 各种WebView样式调试 手机浏览器的页面真机调试 便捷的远程调试手机页面 抓包工具 支持 HTTPS 无需USB连接设备  master分支 渲染器 微信小程序组件 API 云开发示例简悦 SimpRead 让你瞬间进入沉浸式阅读的扩展让H5制作像搭积木一样简单 轻松搭建H5页面 H5网站 PC端网站 LowCode平台  一套组件化 可复用 易扩展的微信小程序 UI 组件库这是一个数据可视化项目 能够将历史数据排名转化为动态柱状图图表微信小程序图表charts组件 Charts for WeChat small app类似易企秀的H5制作 建站工具 可视化搭建系统 一个在你编程时疯狂称赞你的 VSCode 扩展插件全家桶后台管理框架解锁网易云音乐客户端变灰歌曲美观易用的React富文本编辑器 基于draft js开发一个致力于微信小程序和 Web 端同构的解决方案從零開始學 ReactJS ReactJS 1 1 是一本希望讓初學者一看就懂的 React 中文入門教學書 由淺入深學習 ReactJS 生態系源码解读 系列文章 完 我就是来分享脚本玩玩的开发者边车 github打不开 github加速 git clone加速 git release下载加速 stackoverflow加速vue源码逐行注释分析 4 多m的vue源码程序流程图思维导图 diff部分待后续更新 微信小程序解决方案 1KB javascript 覆盖状态管理 跨页通讯 插件开发和云数据库开发给老司机用的一个番号推荐系统 FeHelper Web前端助手记录成长的过程哔哩哔哩 bilibili com 辅助工具 可以替换播放器 推送通知并进行一些快捷操作提供了百度坐标 BD 9 国测局坐标 火星坐标 GCJ 2 和WGS84坐标系之间的转换F2etest是一个面向前端 测试 产品等岗位的多浏览器兼容性测试整体解决方案  ️ 阿里飞猪 很易用的中后台 表单 表格 图表 解决方案CRMEB Min 前后端分离版自带客服系统 是CRMEB品牌全新推出的一款轻量级 高性能 前后端分离的开源电商系统 完善的后台权限管理 会员管理 订单管理 产品管理 客服管理 CMS管理 多端管理 页面DIY 数据统计 系统配置 组合数据管理 日志管理 数据库管理 一键开通短信 产品采集 物流查询等接口  React技术揭秘 一本自顶向下的React源码分析书微信小程序 基于wepy 商城 微店 微信小程序 欢迎学习交流大屏数据可视化Pytorch 中文文档经典的网页对话框组件 强大的动态表单生成器 简洁 易用 灵活的微信小程序组件库 一款 Material Design 风格的 Hexo 主题签到一个帮助你自动申请京东价格保护的chrome拓展后台admin前端模板 基于 layui 编写的最简洁 易用的后台框架模板 只需提供一个接口就直接初始化整个框架 无需复杂操作 小程序生成图片库 轻松通过 json 方式绘制一张可以发到朋友圈的图片安卓应用层抓包通杀脚本一个轻量的工具集合婚礼大屏互动 微信请柬一站式解决方案mili 是一个开源的社区系统 界面优雅 功能丰富 丝般顺滑的触摸运动方案做最好的接口管理平台Mpx 一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架省市区县乡镇三级或四级城市数据 带拼音标注 坐标 行政区域边界范围 2 21年 7月 3日最新采集 提供csv格式文件 支持在线转成多级联动js代码 通用json格式 提供软件转成shp geojson sql 导入数据库 带浏览器里面运行的js采集源码 综合了中华人民共和国民政部 国家统计局 高德地图 腾讯地图行政区划数据在vscode中用于生成文件头部注释和函数注释的插件 经过多版迭代后 插件 支持所有主流语言 功能强大 灵活方便 文档齐全 食用简单 觉得插件不错的话 点击右上角给个Star ️呀  JAVClub 让你的大姐姐不再走丢️你想要的最全 Android 进阶路线知识图谱 干货资料收集  开发者推荐阅读的书籍 2 2 淘宝 京东 支付宝双十一 双11全民养猫 全民营业自动化脚本 全额奖励 防检测 一款高性能敏感词 非法词 脏字 检测过滤组件 附带繁体简体互换 支持全角半角互换 汉字转拼音 模糊搜索等功能 前端博客 关注基础知识和性能优化 vue cli4配置vue config js持续更新PT 助手 Plus 为 Google Chrome 和 Firefox 浏览器插件 Web Extensions 主要用于辅助下载 PT 站的种子 基于vue2 koa2的 H5制作工具 让不会写代码的人也能轻松快速上手制作H5页面 类似易企秀 百度H5等H5制作 建站工具最全最新中国省 市 地区json及sql数据首个 Taro 多端统一实例 网易严选 小程序 H5 React Native By 趣店 FED地理信息可视化库企业级 Node js 应用性能监控与线上故障定位解决方案 Node js区块链开发 注 新版代码已开源 请star支持哦 基于Auto js的蚂蚁森林能量自动收取脚本 结巴 中文分词的Node js版本 译 面向机器学习的特征工程webfunny是一款轻量级的前端监控系统 webfunny也是一款前端性能监控系统 无埋点监控前端日志 实时分析前端健康状态一个实现汉字与拼音互转的小巧web工具库 演示地址  前端进阶 优质博文 一个 Chrome 插件 将 Google CDN 替换为国内的  Vue ElementUI构建的CMS开发框架超完整的React Native项目 功能丰富 适合学习和日常使用 GSYGithubApp系列的优势 我们目前已经拥有四个版本 功能齐全 项目框架内技术涉及面广 完成度高 配套文章 适合全面学习 对比参考 开源Github客户端App 更好的体验 更丰富的功能 旨在更好的日常管理和维护个人Github 提供更好更方便的驾车体验Σ 同款Weex版本同款Flutter版本 https github com CarGu 群 宇宙最强的前端面试指南 lucifer ren fe interview 微慕小程序开源版 WordPress版微信小程序函数式编程指北中文版Node js面试题 侧重后端应用与对Node核心的理解jQuery源码解析小白入坑vue三部曲 关于 vue 在工作的使用问题总结 请看博客 sunseekers github io 一直保持更新基于 Vue 的 PWA 解决方案 帮助开发者快速搭建 PWA 应用 解决接入 PWA 的各种问题ThinkCMF是一款支持Swoole的开源内容管理框架 基于ThinkPHP开发 同时支持PHP FPM和Swoole双模式 让WEB开发更快 微信小程序图片裁剪工具前端知识月刊Next Terminal是一个轻量级堡垒机系统 易安装 易使用 支持RDP SSH VNC Telnet Kubernetes协议 微信小程序 日历组件 基于 ueditor的更现代化的富文本编辑器 支持HTTPS基于JavaScript React Vue2的流程图组件 采用Spring MyBatis Shiro框架 开发的一套权限系统 极低门槛 拿来即用 设计之初 就非常注重安全性 为企业系统保驾护航 让一切都变得如此简单 QQ群 32478 2 4 145799952  一个前端的博客  春松客服 多渠道智能客服系统 开源客服系统 机器人客服一个工作流平台小程序 小游戏以及 Web 通用 Canvas 渲染引擎 在线工具秘籍 为在线工具写一本优质说明书 让在线工具造福人类 前端内参 有关于JavaScript 编程范式 设计模式 软件开发的艺术等大前端范畴内的知识分享 旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试  ️ vCards 中国黄页 优化 iOS Android 来电 信息界面体验各平台的分流规则 复写规则及自动化脚本 基于vue2 的实时聊天项目 图片剪裁上传组件 等笔记快速分享 GoogleDrive OneDrive 每日时报 以前端技术体系为主要分享课题 根据 文章 工具 新闻 视频几大板块作为主要分类 一款高效 高性能的帧动画生成工具 停止维护 一个在线音乐播放器 仅 UI 无功能 小程序富文本组件 支持渲染和编辑 html 支持在微信 QQ 百度 支付宝 头条和 uni app 平台使用基于 electron vue 开发的音乐播放器 界面模仿QQ音乐 技术栈欢迎starweui 是在weui和zepto基础上开发的增强UI组件 目前分为表单 基础 组件 js插件四大类 共计百余项功能 是最全的weui样式同步和更新大佬脚本库 更新懒人配置腾讯云即时通信 IM 服务 国内下载镜像 基于 Vue 的小程序开发框架React 16 8打造精美音乐WebAppWK系列开发框架 V1至V5 Java开源企业级开发框架 单应用 微服务 分布式  ️中国 省市区 三级联动 地址选择器 微信小程序2d动画库 分布式 Redis缓存 Shiro权限管理 Spring Session单点登录 Quartz分布式集群调度 Restful服务 QQ 微信登录 App token登录 微信 支付宝支付 日期转换 数据类型转换 序列化 汉字转拼音 身份证号码验证 数字转人民币 发送短信 发送邮件 加密解密 图片处理 excel导入导出 FTP SFTP fastDFS上传下载 二维码 XML读写 高精度计算 系统配置工具类等等 EduSoho 网络课堂是由杭州阔知网络科技有限公司研发的开源网校系统 EduSoho 包含了在线教学 招生和管理等完整功能 让教育机构可以零门槛建立网校 成功转型在线教育 EduSoho 也可作为企业内训平台 帮助企业实现人才培养  自用的一些乱七八糟 油猴脚本 为刚刚学习php语言以及web网站开发整理的一套资源 有视频 实战代码 学习路径等 会持续更新 This is a goindex theme 一个goindex的扩展主题 NumPy官方中文文档 完整版  搭建移动端开发 基于适配方案 axios封装 构建手机端模板脚手架 后台管理 脚手架接口 从简单开始 PhalApi简称π框架 一个轻量级PHP开源接口框架 专注于接口服务开发 前端特效存档Chrome浏览器 抢购 秒杀插件 秒杀助手 定时自动点击云存储管理客户端 支持七牛云 腾讯云 青云 阿里云 又拍云 亚马逊S3 京东云 仿文件夹管理 图片预览 拖拽上传 文件夹上传 同步 批量导出URL等功能font carrier是一个功能强大的字体操作库 使用它你可以随心所欲的操作字体 让你可以在svg的维度改造字体的展现形状 CRN是Ctrip React Native简称 由携程无线平台研发团队基于React Native框架优化 定制成稳定性和性能更佳 也更适合业务场景的跨平台开发框架  油猴脚本页面浮窗广告完全过滤净化 国服最强最全最新CSDN脚本微信小程序即时通讯模板 使用WebSocket通信小程序反编译 支持分包 “想学吗”个人知识管理与自媒体营销工具 超多经典 Canvas 实例 动态离子背景 炫彩小球 贪吃蛇 坦克大战 是男人就下1 层 心形文字等  Vue UEditor v model双向绑定 HQChart H5 微信小程序 沪深 港股 数字货币 期货 美股 K线图 kline 走势图 缩放 拖拽 十字光标 画图工具 截图 筹码图 分析家语法 通达信语法 麦语法 第3方数据替换接口基于koa2的标准前后端分离框架 一款企业信息化开发基础平台 拟集成OA 办公自动化 CMS 内容管理系统 等企业系统的通用业务功能 JeePlatform项目是一款以SpringBoot为核心框架 集ORM框架Mybatis Web层框架SpringMVC和多种开源组件框架而成的一款通用基础平台 代码已经捐赠给开源中国社区基于inception的自动化SQL操作平台 支持SQL执行 LDAP认证 发邮件 OSC SQL查询 SQL优化建议 权限管理等功能 支持docker镜像是一款专门面向个人 团队和小型组织的私有网盘系统 轻量 开源 完善 无论是在家庭 学校还是在办公室 您都能立刻开始使用它 了解更多请访问官方网站 Node js API 中文文档dubbo服务管理以及监控系统拯救B站的弹幕体验  对抗假消息系列项目之一 截屏 实锤？相信你就输了 ”突破性“更新 支持修改任何网站  ️一个简洁 优雅且高效的 Hugo 主题Vue js 示例项目 简易留言板 本项目拥有完善的文档说明与注释 让您快速上手 Vue js 开发? Vue Validator? Vuex?最佳实践基于 Node js Koa2 实战开发的一套完整的博客项目网站 用 React 编写的基于Taro Dva构建的适配不同端 微信 百度 支付宝小程序 H5 React Native 等 的时装衣橱信息泄漏监控系统 伪装115浏览器干爆前端 一网打尽前端面试 学习路径 优秀好文等各类内容 帮助大家一年内拿到期望的 offer 前端性能监控系统 消息队列 高可用 集群等相关架构SpringBoot v2项目是努力打造springboot框架的极致细腻的脚手架 包括一套漂亮的前台 无其他杂七杂八的功能 原生纯净 中文文本标注工具 最全最新中国 省 市 区县 乡镇街道 json csv sql数据 一款轻巧的渐进式微信小程序框架 全网 1 w 阅读量的进阶前端技术博客仓库 Vue 源码解析 React 深度实践 TypeScript 进阶艺术 工程化 性能优化实践 完整开源 Java快速开发平台 基于Spring SpringMVC Mybatis架构 MStore提供更多好用的插件与模板 文章 商城 微信 论坛 会员 评论 支付 积分 工作流 任务调度等 同时提供上百套免费模板任意选择 价值源自分享 铭飞系统不仅一套简单好用的开源系统 更是一整套优质的开源生态内容体系 铭飞的使命就是降低开发成本提高开发效率 提供全方位的企业级开发解决方案 每月28定期更新版本WeHalo 简约风 的微信小程序版博客 基于 vue2 vuex 构建一个具有 45 个页面的大型单页面应用基于Vue3 Element Plus 的后台管理系统解决方案基于 vue element ui 的后台管理系统鲜亮的高饱和色彩 专注视觉的小程序组件库 ️ 跨平台桌面端视频资源播放器 简洁无广告 免费高颜值 后台管理主线版本基于三者并行开发维护 同时支持电脑 手机 平板 切换分支查看不同的vue版本 element plus版本已发布 vue3 vue3 vue vue3 x vue js 程序无国界 但程序员有国界 中国国家尊严不容挑衅 如果您在特殊时期 mall admin web是一个电商后台管理系统的前端项目 基于Vue Element实现 主要包括商品管理 订单管理 会员管理 促销管理 运营管理 内容管理 统计报表 财务管理 权限管理 设置等功能 一款完善的安全评估工具 支持常见 web 安全问题扫描和自定义 poc 使用之前务必先阅读文档Vue数据可视化组件库 类似阿里DataV 大屏数据展示 提供SVG的边框及装饰 图表 水位图 飞线图等组件 简单易用 长期更新 React版已发布  UI表单设计及代码生成器基于Vue的可视化表单设计器 让表单开发简单而高效 基于vue的高扩展在线网页制作平台 可自定义组件 可添加脚本 可数据统计 vue后台管理框架 精致的下拉刷新和上拉加载 js框架 支持vue 完美运行于移动端和主流PC浏览器 基于vue2 vuex element ui后台管理系统  Vue js高仿饿了么外卖App课程源码 coding imooc com class 74 html京东风格移动端 Vue2 Vue3 组件库eladmin前端源码 项目基于的前后端分离后台管理系统 权限控制采用 RBAC 菜单动态路由资源采集站在线播放uView UI 是uni app生态最优秀的UI框架 全面的组件和便捷的工具会让您信手拈来 如鱼得水Vue2 全家桶仿 微信App 项目 支持多人在线聊天和机器人聊天前端vue 后端koa 全栈式开发bilibili首页 A magical vue admin 记得star互联网大厂内推及大厂面经整理 并且每天一道面试题推送 每天五分钟 半年大厂中 Vue3 全家桶 Vant 搭建大型单页面商城项目 新蜂商城 Vue3 版本 技术栈为基于Vue开发的XMall商城前台页面 PC端 Vue全家桶 Vant 搭建大型单页面电商项目 ddbuy 7 orange cn前后端分离权限管理系统 精力有限 停止维护 用 Vue js 开发的跨三端应用Prototyping Tool For Vue Devs 适用于Vue的原型工具实战商城  基于Vue2 高仿微信App的单页应用electron跨平台音乐播放器 可搜网易云 QQ音乐 虾米音乐 支持QQ 微博 Github登录 云歌单 支持一键导入音乐平台歌单ThorUI组件库 轻量 简洁的移动端组件库 组件文档地址 thorui cn doc 最近更新时间 2 21 5 28uni app框架演示示例 Electron Vue 仿网易云音乐windows客户端 基于 Vue2 Vue CLI3 的高仿网易云 mac 客户端播放器 PC Online Music PlayerGitHub 泄露监控系统pear 梨子 轻量级的在线项目 任务协作系统 远程办公协作自选基金助手是一款Chrome扩展 用来快速获取关注基金的实时数据 查看自选基金的实时估值情况支持 markdown 渲染的博客前台展示Vue 音乐搜索 播放 Demo 一个基于 vue2 vue3 的 大转盘 九宫格 抽奖插件奖品 文字 图片 颜色 按钮均可配置 支持同步 异步抽奖 概率前 后端可控 自动根据 dpr 调整清晰度适配移动端 基于 Vue 的在线音乐播放器 PC Online music player美团饿了吗外卖红包外卖优惠券 先领红包再下单 外卖红包优惠券 cps分成 别人领红包下单 你拿佣金 讨论如何构建一套可靠的大型分布式系统用 vue 写小程序 基于 mpvue 框架重写 weui 基于Vue框架构建的github数据可视化平台使用GitHub API 搭建一个可动态发布文章的博客可视化拖拽组件库 DEMO基于开源组件 Inception SQLAdvisor SOAR 的SQL审核 SQL优化的Web平台显示当前网站的所有可用Tampermonkey脚本 专注Web与算法无缝滚动component精通以太坊 中文版 网页模拟桌面基于的多模块前后端分离的博客项目网易云音乐 QQ音乐 咪咕音乐 第三方 web端 可播放 vip 下架歌曲 基于权限管理的后台管理系统基于 Node js 的开源个人博客系统 采用 Nuxt Vue TypeScript 技术栈  一款简洁高效的VuePress知识管理 博客 blog 主题基于uni app的ui框架基于Vue Vuex iView的电子商城网站 Vue2 全家桶 Vant 搭建大型单页面商城项目 新蜂商城前后端分离版本 前端Vue项目源码酷狗 ️ 极客猿梦导航 独立开发者的导航站  Vue SpringBoot MyBatis 音乐网站基于 RageFrame2 的一款免费开源的基础商城销售功能的开源微商城 基于vue2 的网易云音乐播放器 api来自于NeteaseCloudMusicApi v2 为最新版本编写的一套后台管理系统全栈开发王者荣耀手机端官网和管理后台基于 Vue3 x TypeScript 的在线演示文稿应用 实现PPT幻灯片的在线编辑 演示 基于vue2 生态的后台管理系统模板开发的后台管理系统 Vchat 从头到脚 撸一个社交聊天系统 vue node mongodb h5编辑器类似maka 易企秀 账号 密码 admin996 公司展示 讨论Vue Spring boot前后端分离项目 wh web wh server的升级版 基于element ui的数据驱动表单组件基于 GitHub API 开发的图床神器 图片外链使用 jsDelivr 进行 CDN 加速 免下载 免安装 打开网站即可直接使用 免费 稳定 高效  ️ Vue初 中级项目 CnodeJS社区重构预览 DEMO 基于vue2全家桶实现的 仿移动端QQ基于Vue Echarts 构建的数据可视化平台 酷炫大屏展示模板和组件库 持续更新各行各业实用模板和炫酷小组件 基于Spring Boot的在线考试系统 预览地址 129 211 88 191 账户分别是admin teacher student 密码是admin123 6pan 6盘小白羊 第二版 vue3 antd typescript on bone and knife 基于Vue 全家桶 2 x 制作的美团外卖APP 本项目是一款基于 Avue 的表单设计器 拖拽式操作让你快速构建一个表单 一刻社区前端源码基于Vue iView Admin开发的XBoot前后端分离开放平台前端 权限可控制至按钮显示 动态路由权限菜单 多语言 简洁美观 前后端分离 ️一个开源的社区程序 临时测试站 https t myrpg cnecharts地图geoJson行政边界数据的实时获取与应用 省市区县多级联动下钻 真正意义的下钻至县级 附最新geoJson文件下载 Vue的Nuxt js服务端渲染框架 NodeJS为后端的全栈项目 Docker一键部署 面向小白的完美博客系统vue瀑布流组件 vue waterfall easy 2 x Ego 移动端购物商城 vue vuex ruoter webpack  Vue js Node js Mongodb 前后端分离的个人博客头像加口罩小程序 基于uniapp使用vue快速实现 广告月收入4k  基于vue3 的管理端模板教你如何打造舒适 高效 时尚的前端开发环境基于 Flask 和 Vue js 前后端分离的微型博客项目 支持多用户 Markdown文章 喜欢 收藏文章 粉丝关注 用户评论 点赞 动态通知 站内私信 黑名单 邮件支持 管理后台 权限管理 RQ任务队列 Elasticsearch全文搜索 Linux VPS部署 Docker容器部署等基于 vue 和 heyui 组件库的中后端系统 admin heyui topVue 轻量级后台管理系统基础模板uni app项目插件功能集合We川大小程序 scuplus 使用wepy开发的完善的校园综合小程序 4 页面 前后端开源 包括成绩 课表 失物招领 图书馆 新闻资讯等等常见校园场景功能一个全随机的刷装备小游戏一个vue全家桶入门Demo 是一個可以幫助您 Vue js 的項目測試及偵錯的工具 也同時支持 Vuex及 Vue Router  微信公众号管理系统 包含公众号菜单管理 自动回复 素材管理 模板消息 粉丝管理 ️等功能 前后端都开源免费  基于vue 的管理后台 配合Blog Core与Blog Vue等多个项目使用海风小店 开源商城 微信小程序商城管理后台 后台管理 VUE IT之家第三方小程序版客户端 使用 mpvue 开发 兼容 web vue 可以拖拽排序的树形表格 现代 Web 开发语法基础与工程实践 涵盖 Web 开发基础 前端工程化 应用架构 性能与体验优化 混合开发 React 实践 Vue 实践 WebAssembly 等多方面  数据大屏可视化编辑器一个适用于摄影从业者 爱好者 设计师等创意行业从业者的图像工具箱 武汉大学图书馆助手 桌面端基于form generator 仿钉钉审批流程创建 表单创建 流程节点可视化配置 必填条件及校验 一个完整electron桌面记账程序 技术栈主要使用electron vue vuetify 开机自动启动 自动更新 托盘最小化 闪烁等常用功能 Nsis制作漂亮的安装包 程序猿的婚礼邀请函 一个基于vue和element ui的树形穿梭框及邮件通讯录版本见示例见 基于Gin Vue Element UI的前后端分离权限管理系统的前端模块通用书籍阅读APP BookChat 的 uni app 实现版本 支持多端分发 编译生成Android和iOS 手机APP以及各平台的小程序基于Vue3的Material design风格移动端组件库进阶资深前端开发在线考试系统 springboot vue前后端分离的一个项目  ️ 无后端的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬vue后端管理系统界面 基于ui组件iviewBilibili直播弹幕库 for Mac Windows LinuxVue高仿网易云音乐 基本实现网易云所有音乐 MV相关功能 现已更新到第二版 仅用于学习 下面有详细教程 武汉大学图书馆助手 移动端Zeus基于Golang Gin casbin 致力于做企业统一权限 账号中心管理系统 包含账号管理 数据权限 功能权限 应用管理 多数据库适配 可docker 一键运行 社区活跃 版本迭代快 加群免费技术支持 Vue高仿网易云音乐 Vue入门实践 在线预览 暂时停止基于 Vue 和 ElementUI 构建的一个企业级后台管理系统 ️ 跨平台移动端视频资源播放器 简洁免费 ZY Player 移动端 APP 基于 Uni app 开发 Vue实战项目基于参考小米商城 实现的电商项目 h5制作 移动端专题活动页面可视化编辑仿钉钉审批流程设置动态表单页面设计 自动生成页面微前端项目实战vue项目 基于vue3 qiankun2 进阶版 github com wl ui wl mfe基于 d2 admin的RBAC权限管理解决方案VueNode 是一套基于的前后端分离项目 基于仿京东淘宝的 移动端H5电商平台  巨树 基于ztree封装的Vue树形组件 轻松实现海量数据的高性能渲染 微信红包封面领取 用户观看视频广告或者邀请用户可获取微信红包序列号基于 Vue 的可视化布局编辑器插件kbone ui 是一套能同时支持 小程序 kbone 和 vue 框架开发的多端 UI 库 PS 新版 kbone ui 已出炉并迁移到 kbone 主仓库 此仓库仅做旧版维护之用  一个vue的个人博客项目 配合 net core api教程 打造前后端分离Tumo Blog For Vue js 前后端分离bpmn js流程设计器组件 基于vue elementui美化属性面板 满足9 %以上的业务需求专门为 Weex 前端开发者打造的一套高质量UI框架 想用vue把我现在的个人网站重新写一下 新的风格 新的技术 什么都是新的 本项目是一个在线聊天系统 最大程度的还原了Mac客户端QQ vue cli3 后台管理模板 heart 基于vue2和vuex的复杂单页面应用 2 页面53个API 仿实验楼 基于 Vue Koa 的 WebDesktop 视窗系统 Jeebase是一款前后端分离的开源开发框架 基于开发 一套SpringBoot后台 两套前端页面 可以自由选择基于ElementUI或者AntDesign的前端界面 二期会整合react前端框架 Ant Design React 在实际应用中已经使用这套框架开发了CMS网站系统 社区论坛系统 微信小程序 微信服务号等 后面会逐步整理开源 本项目主要目的在于整合主流技术框架 寻找应用最佳项目实践方案 实现可直接使用的快速开发框架 使用 vue cli3 搭建的vue vuex router element 开发模版 集成常用组件 功能模块JEECG BOOT APP 移动解决方案 采用uniapp框架 一份代码多终端适配 同时支持APP 小程序 H5 实现了与JeecgBoot平台完美对接的移动解决方案 目前已经实现登录 用户信息 通讯录 公告 移动首页 九宫格等基础功能 明日方舟工具箱 支持中台美日韩服vue的验证码插件这里有一些标准组件库可能没有的功能组件 已有组件 放大镜 签到 图片标签 滑动验证 倒计时 水印 拖拽 大家来找茬 基于Vue2 Nodejs MySQL的博客 有后台管理系统 支持 登陆 注册 留言 评论 回复 点赞长江证券郑州大学超市管理系统天安门坦克桌面行驶工况茶马古道金融文本情感自动黄河银行营销通许章润</div>
+                                <div class="field description">Visual Studio Code</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                            <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                         </svg>
-                                        HTML
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
-                                        </svg>
-                                        CC-BY-SA-4.0
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                        </svg>
-                                        765
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                        </svg>
-                                        142
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                        </svg>
-                                        576
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                        </svg>
-                                        18
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width largeable-width-half">
-                            <section class="repository">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="name">
-                                        <span>sqlitebrowser/sqlitebrowser</span>
-                                        <span>starred 4 days ago</span>
-                                    </div>
-                                </div>
-                                <div class="field description">Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:</div>
-                                <div class="field infos">
-                                    <div class="language">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                        </svg>
-                                        C++
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
-                                        </svg>
-                                        Other
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                        </svg>
-                                        16k
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                        </svg>
-                                        1.78k
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                        </svg>
-                                        2.42k
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                        </svg>
-                                        488
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width largeable-width-half">
-                            <section class="repository">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="name">
-                                        <span>leonardomso/33-js-concepts</span>
-                                        <span>starred 5 days ago</span>
-                                    </div>
-                                </div>
-                                <div class="field description">📜 33 JavaScript concepts every developer should know.</div>
-                                <div class="field infos">
-                                    <div class="language">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                        </svg>
-                                        JavaScript
+                                        TypeScript
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1547,26 +1403,26 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        47.2k
+                                        128k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        6.33k
+                                        21.6k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        39
+                                        129k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        171
+                                        11.3k
                                     </div>
                                 </div>
                             </section>
@@ -1578,48 +1434,136 @@
                                         <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                                     </svg>
                                     <div class="name">
-                                        <span>aquasecurity/trivy</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>kabinspace/AstroVim</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues</div>
+                                <div class="field description">AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                            <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                         </svg>
-                                        Go
+                                        Lua
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
                                         </svg>
-                                        Apache-2.0
+                                        GNU GPLv3
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        10.7k
+                                        1.77k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        1k
+                                        84
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        892
+                                        53
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        759
+                                        46
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width largeable-width-half">
+                            <section class="repository">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="name">
+                                        <span>jgthms/web-design-in-4-minutes</span>
+                                        <span>starred 10 hours ago</span>
+                                    </div>
+                                </div>
+                                <div class="field description">Learn the basics of web design in 4 minutes</div>
+                                <div class="field infos">
+                                    <div class="language">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                        </svg>
+                                        HTML
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        </svg>
+                                        4.20k
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                        </svg>
+                                        413
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        </svg>
+                                        10
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        </svg>
+                                        24
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width largeable-width-half">
+                            <section class="repository">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="name">
+                                        <span>veeral-patel/how-to-secure-anything</span>
+                                        <span>starred 10 hours ago</span>
+                                    </div>
+                                </div>
+                                <div class="field description">How to systematically secure anything: a repository about security engineering</div>
+                                <div class="field infos">
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        </svg>
+                                        8.13k
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                        </svg>
+                                        564
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        </svg>
+                                        4
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        </svg>
+                                        8
                                     </div>
                                 </div>
                             </section>
@@ -1640,30 +1584,11 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">minlaxz/easy-rest</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#48a0336</div>
-                                        <div class="message">Merge pull request #10 from minlaxz/snyk-upgrade-5fe44909cd0f61c4b71b7fb3e425a140</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8512ef6</div>
-                                        <div class="message">fix: upgrade joi from 17.5.0 to 17.6.0
-
-Snyk has created this PR to upgrade joi from 17.5.0 to 17.6.0.
-
-See this package in npm:
-
-
-See this project in Snyk:
-https://app.snyk.io/org/minlaxz/project/e0e24bd6-2c38-4811-afd3-5ea706e30024?utm_source=github&amp;utm_medium=referral&amp;page=upgrade-pr</div>
+                                        Starred
+                                        <span class="repo">microsoft/vscode</span>
                                     </div>
                                 </div>
                             </section>
@@ -1672,31 +1597,11 @@ https://app.snyk.io/org/minlaxz/project/e0e24bd6-2c38-4811-afd3-5ea706e30024?utm
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Merged
-                                        <span class="issue">#10 [Snyk] Upgrade joi from 17.5.0 to 17.6.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by snyk-bot in <span class="repo">minlaxz/easy-rest</span></div>
-                                    <div>2 files changed <span class="code">++5 --5</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">snyk-upgrade-5fe44909cd0f61c4b71b7fb3e425a140</span>
-                                        in
-                                        <span class="repo">minlaxz/easy-rest</span>
+                                        Starred
+                                        <span class="repo">kabinspace/AstroVim</span>
                                     </div>
                                 </div>
                             </section>
@@ -1705,33 +1610,11 @@ https://app.snyk.io/org/minlaxz/project/e0e24bd6-2c38-4811-afd3-5ea706e30024?utm
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">minlaxz/warp-plus</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8f88190</div>
-                                        <div class="message">Merge pull request #18 from minlaxz/dependabot/docker/python-3.10.2-slim-buster</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b11137a</div>
-                                        <div class="message">Bump python from 3.10.1-slim-buster to 3.10.2-slim-buster
-
-Bumps python from 3.10.1-slim-buster to 3.10.2-slim-buster.
-
----
-updated-dependencies:
-- dependency-name: python
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        Starred
+                                        <span class="repo">jgthms/web-design-in-4-minutes</span>
                                     </div>
                                 </div>
                             </section>
@@ -1740,14 +1623,24 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/docker/python-3.10.2-slim-buster</span>
-                                        in
-                                        <span class="repo">minlaxz/warp-plus</span>
+                                        Starred
+                                        <span class="repo">veeral-patel/how-to-secure-anything</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">coding-horror/basic-computer-games</span>
                                     </div>
                                 </div>
                             </section>
@@ -1885,7 +1778,39 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.43360711841205 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.5075 155"/>
+                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+                                        <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
+                                            <path stroke="#B59151" d="M28.017 5v3M36.006 7.013l-1.987 2.024M20.021 7.011l1.988 2.011M28.806 30.23c-2.206-3.88-5.25-2.234-5.25-2.234 1.007 2.24 1.688 3.72 2.742 8.724.957 4.551 3.785 7.409 7.687 7.293l5.028 6.003M29.03 34.057L29 20.007m4.012 9.004V17.005m4.006 11.99l-.003-9.353"/>
+                                            <path d="M18.993 50.038l4.045-5.993s1.03-.262 1.954-.984m-6.983.96c-4.474-.016-6.986-5.558-6.986-9.979 0-1.764-.439-4.997-1.997-8.004 0 0 3.268-1.24 5.747 3.6.904 1.768.458 5.267.642 5.388.185.121 1.336.554 2.637 2.01m4.955-18.92a976.92 976.92 0 010 5.91m-7.995-4.986l-.003 10.97M10.031 48.021l2.369-3.003" stroke="#FFD576"/>
+                                            <path d="M45.996 47.026l-1.99-2.497-1.993-2.5s2.995-1.485 2.995-6.46V24.033" stroke="#B59151"/>
+                                            <path d="M41 29v-6a2 2 0 114 0v2m-8-4v-4a2 2 0 114 0v7m-8-7v-2a2 2 0 114 0v2m-8 4v-2a2 2 0 114 0v2" stroke="#B59151"/>
+                                            <path d="M23 20v-2a2 2 0 013.043-1.707M19 19v-4a2 2 0 114 0v3m-8 3v-2a2 2 0 114 0v10" stroke="#FFD576"/>
+                                            <path d="M6.7 12c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.316-1.121-.572-1.372-1.71-1.678 1.135-.314 1.389-.567 1.7-1.69zm42 0c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689zM28.021 47.627c.317 1.122.573 1.372 1.71 1.678-1.135.314-1.389.566-1.699 1.69-.318-1.121-.573-1.372-1.71-1.679 1.134-.313 1.389-.566 1.699-1.689z" stroke="#B59151"/>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <span class="prefix">Super</span>
+                                    stargazer
+                                </div>
+                                <div class="text">Starred 713 repositories</div>
+                            </div>
+                        </div>
+                        <div class="achievement a largeable-width-half">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+                                    <defs>
+                                        <mask id="mask">
+                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+                                        </mask>
+                                    </defs>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.476043805612594 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1909,38 +1834,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     member
                                 </div>
                                 <div class="text">Registered 6 years ago</div>
-                            </div>
-                        </div>
-                        <div class="achievement a largeable-width-half">
-                            <div class="icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
-                                    <defs>
-                                        <mask id="mask">
-                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
-                                        </mask>
-                                    </defs>
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
-                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.965 155"/>
-                                    </svg>
-                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
-                                        <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
-                                            <path stroke="#B59151" d="M28.017 5v3M36.006 7.013l-1.987 2.024M20.021 7.011l1.988 2.011M28.806 30.23c-2.206-3.88-5.25-2.234-5.25-2.234 1.007 2.24 1.688 3.72 2.742 8.724.957 4.551 3.785 7.409 7.687 7.293l5.028 6.003M29.03 34.057L29 20.007m4.012 9.004V17.005m4.006 11.99l-.003-9.353"/>
-                                            <path d="M18.993 50.038l4.045-5.993s1.03-.262 1.954-.984m-6.983.96c-4.474-.016-6.986-5.558-6.986-9.979 0-1.764-.439-4.997-1.997-8.004 0 0 3.268-1.24 5.747 3.6.904 1.768.458 5.267.642 5.388.185.121 1.336.554 2.637 2.01m4.955-18.92a976.92 976.92 0 010 5.91m-7.995-4.986l-.003 10.97M10.031 48.021l2.369-3.003" stroke="#FFD576"/>
-                                            <path d="M45.996 47.026l-1.99-2.497-1.993-2.5s2.995-1.485 2.995-6.46V24.033" stroke="#B59151"/>
-                                            <path d="M41 29v-6a2 2 0 114 0v2m-8-4v-4a2 2 0 114 0v7m-8-7v-2a2 2 0 114 0v2m-8 4v-2a2 2 0 114 0v2" stroke="#B59151"/>
-                                            <path d="M23 20v-2a2 2 0 013.043-1.707M19 19v-4a2 2 0 114 0v3m-8 3v-2a2 2 0 114 0v10" stroke="#FFD576"/>
-                                            <path d="M6.7 12c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.316-1.121-.572-1.372-1.71-1.678 1.135-.314 1.389-.567 1.7-1.69zm42 0c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689zM28.021 47.627c.317 1.122.573 1.372 1.71 1.678-1.135.314-1.389.566-1.699 1.69-.318-1.121-.573-1.372-1.71-1.679 1.134-.313 1.389-.566 1.699-1.689z" stroke="#B59151"/>
-                                        </g>
-                                    </svg>
-                                </svg>
-                            </div>
-                            <div class="info">
-                                <div class="title">
-                                    <span class="prefix">Super</span>
-                                    stargazer
-                                </div>
-                                <div class="text">Starred 706 repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2198,7 +2091,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 338k out of 85m users</span>
+                                    <span class="gh">ranked 339k out of 85m users</span>
                                 </div>
                                 <div class="text">Followed by 24 users</div>
                             </div>
@@ -2480,7 +2373,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2022, 07:29:18 (timezone Asia/Rangoon) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 25 Feb 2022, 07:29:57 (timezone Asia/Rangoon) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
