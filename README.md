@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![repo size](https://img.shields.io/github/repo-size/minlaxz/minlaxz)
+
+
 <div align="left">
 <a href="https://twitter.com/minlaxz" target="_blank" rel="noreferrer noopener">
     <img
